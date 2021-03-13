@@ -5,7 +5,6 @@
 **Added :**
 
 - Readme file
-- Default template of Jekyll
 
 
 ## [0.0.1] (March 13 2021)
