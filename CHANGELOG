@@ -5,6 +5,7 @@
 **Updated :**
 - Rebuild Jekyll project
 - Rename CHANGELOG.md to CHANGE-LOG.md
+- Rename CHANGE-LOG.md to CHANGELOG
 
 **Changed :**
 - Delete repository files from the wrong place
