@@ -2,6 +2,9 @@
 
 ## [0.0.3] (March 15 2021)
 
+**Updated :**
+- Rebuild Jekyll project
+
 **Changed :**
 - Delete repository files from the wrong place
 
