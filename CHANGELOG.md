@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.3] (March 15 2021)
+
+**Changed :**
+- Delete repository files from the wrong place
+
+
 ## [0.0.2] (March 14 2021)
 
 **Added :**
