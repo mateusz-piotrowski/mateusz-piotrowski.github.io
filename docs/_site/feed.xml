@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-20T22:26:17+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Continuing blogging</title><link href="/posts/continuing-blogging/" rel="alternate" type="text/html" title="Continuing blogging" /><published>2021-07-20T01:00:02+02:00</published><updated>2021-07-20T01:00:02+02:00</updated><id>/posts/continuing-blogging</id><content type="html" xml:base="/posts/continuing-blogging/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-25T23:38:57+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Signed commit</title><link href="/posts/signed-commit/" rel="alternate" type="text/html" title="Signed commit" /><published>2021-07-25T01:00:03+02:00</published><updated>2021-07-25T01:00:03+02:00</updated><id>/posts/signed-commit</id><content type="html" xml:base="/posts/signed-commit/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Some time ago, the Nextcloud released new version of their product.&lt;br /&gt;
+I went to repository on the GitHub and looked closer at the counter of commits in the master branch.&lt;br /&gt;
+This number interesed me and I looked at a few first commits.
+Next to general information about the commit, in the little circle button,&lt;br /&gt;
+I saw green text: &lt;span style=&quot;color:green&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Verified&lt;/code&gt;&lt;/span&gt;, which inspired me to check what that mean.&lt;/p&gt;
+
+&lt;p&gt;After a fast research, I knew it is information about commit signed using GPG key.&lt;br /&gt;
+I followed the manual attached below and my commits are now &lt;span style=&quot;color:green&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Verified&lt;/code&gt;&lt;/span&gt;, too.&lt;br /&gt;
+&lt;a href=&quot;https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification&quot;&gt;GitHub Manual&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In my opinion it is good practice to signed own commits,&lt;br /&gt;
+because during contributioning to public repositories changes made by us will be more trusted.&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="github" /><category term="gnugpg" /><category term="commit" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Continuing blogging</title><link href="/posts/continuing-blogging/" rel="alternate" type="text/html" title="Continuing blogging" /><published>2021-07-20T01:00:02+02:00</published><updated>2021-07-20T01:00:02+02:00</updated><id>/posts/continuing-blogging</id><content type="html" xml:base="/posts/continuing-blogging/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;When I published the first post on my blog, I do not knew what will happen.&lt;br /&gt;
 I do not knew, do I will find time to write the next posts, regularly publishing new content,&lt;/p&gt;
