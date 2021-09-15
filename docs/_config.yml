@@ -35,8 +35,7 @@ plugins:
   - jekyll-feed
 
 defaults:
-  -
-    scope:
+  - scope:
       type: posts
       path: _posts
     values:

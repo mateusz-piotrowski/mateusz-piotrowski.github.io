@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-25T23:38:57+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Signed commit</title><link href="/posts/signed-commit/" rel="alternate" type="text/html" title="Signed commit" /><published>2021-07-25T01:00:03+02:00</published><updated>2021-07-25T01:00:03+02:00</updated><id>/posts/signed-commit</id><content type="html" xml:base="/posts/signed-commit/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-15T22:34:33+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Experience with the x-kom company app</title><link href="/posts/x-kom-app-experience/" rel="alternate" type="text/html" title="Experience with the x-kom company app" /><published>2021-08-02T01:00:04+02:00</published><updated>2021-08-02T01:00:04+02:00</updated><id>/posts/x-kom-app-experience</id><content type="html" xml:base="/posts/x-kom-app-experience/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.x-kom.pl/&quot;&gt;&lt;b&gt;x-kom&lt;/b&gt;&lt;/a&gt; is a company which everyone know.&lt;br /&gt;
+Currently, they are one of the biggest retailers of electronic articles in Poland.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago I looked closer at the mobile application for Android and iOS operating systems.&lt;/p&gt;
+
+&lt;p&gt;I found 3 bugs in both applications.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In the first issue, I can not add the article to the cart when I am not sign in.&lt;/li&gt;
+  &lt;li&gt;In the second, the price from which is discount is equaled 0.00.&lt;/li&gt;
+  &lt;li&gt;In the third, not all articles have information about sold amounts.&lt;br /&gt;
+– Articles sorted ascending&lt;br /&gt;
+  &lt;img src=&quot;/images/x-kom-app-experience/issue-1-asc.jpg&quot; alt=&quot;issue-1&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;br /&gt;
+– Articles sorted descending&lt;br /&gt;
+  &lt;img src=&quot;/images/x-kom-app-experience/issue-1-desc.jpg&quot; alt=&quot;issue-2&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I sent the request with the screenshots to &lt;a href=&quot;https://www.x-kom.pl/&quot;&gt;&lt;b&gt;x-kom&lt;/b&gt;&lt;/a&gt; via e-mail.&lt;/p&gt;
+
+&lt;p&gt;I received only information about the received request,&lt;br /&gt;
+and no message about fixed function.&lt;/p&gt;
+
+&lt;p&gt;The life went forward and sometime after sent request, the mobile applications for both operating systems received updates.&lt;/p&gt;
+
+&lt;p&gt;After these updates, I got something from &lt;a href=&quot;https://www.x-kom.pl/&quot;&gt;&lt;b&gt;x-kom&lt;/b&gt;&lt;/a&gt; - they changed the minimal version of iOS from 12.0 to 13.0.&lt;br /&gt;
+So, now I can’t get access via an application from my iPhone 5S - but Apple still publish security updates, 
+so I can think this model is still supported.&lt;/p&gt;
+
+&lt;p&gt;Also, I do not understand one thing:&lt;br /&gt;
+if they do not allow me to have access to the store - why they still sent a push notification to me about new promotions?&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="x-kom" /><category term="android" /><category term="ios" /><category term="issue" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Signed commit</title><link href="/posts/signed-commit/" rel="alternate" type="text/html" title="Signed commit" /><published>2021-07-25T01:00:03+02:00</published><updated>2021-07-25T01:00:03+02:00</updated><id>/posts/signed-commit</id><content type="html" xml:base="/posts/signed-commit/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;Some time ago, the Nextcloud released new version of their product.&lt;br /&gt;
 I went to repository on the GitHub and looked closer at the counter of commits in the master branch.&lt;br /&gt;
