@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-15T22:34:33+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Experience with the x-kom company app</title><link href="/posts/x-kom-app-experience/" rel="alternate" type="text/html" title="Experience with the x-kom company app" /><published>2021-08-02T01:00:04+02:00</published><updated>2021-08-02T01:00:04+02:00</updated><id>/posts/x-kom-app-experience</id><content type="html" xml:base="/posts/x-kom-app-experience/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-25T22:59:47+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Help from fairy</title><link href="/posts/help-from-fairy/" rel="alternate" type="text/html" title="Help from fairy" /><published>2021-09-25T01:00:05+02:00</published><updated>2021-09-25T01:00:05+02:00</updated><id>/posts/help-from-fairy</id><content type="html" xml:base="/posts/help-from-fairy/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Each of us - &lt;strong&gt;developers&lt;/strong&gt; - has been met it - a bug causes an issue.&lt;/p&gt;
+
+&lt;p&gt;When we developing an application from scratch we are in a &lt;em&gt;comfortable&lt;/em&gt; situation,&lt;br /&gt;
+We will be able to reproduce a bug and fix it quickly.&lt;br /&gt;
+Also we could leaved some comments in code, notes on the computer&lt;br /&gt;
+or our brain will make retrospection&lt;br /&gt;
+and we know what is the business case to solve.&lt;/p&gt;
+
+&lt;p&gt;The situation is harder when we joined the &lt;strong&gt;legacy&lt;/strong&gt; project.&lt;br /&gt;
+If in the team is person or are people who are in it from the beginning,&lt;br /&gt;
+they could help us understand the logic, but if they left the company&lt;br /&gt;
+and they made technologic debt we are alone.&lt;/p&gt;
+
+&lt;p&gt;The only positive in that situation is when at the business side,&lt;br /&gt;
+we will meet a person who describes to us what the application or system should do.&lt;/p&gt;
+
+&lt;p&gt;But when the situation is hopeless and even reverse engineering don’t give results,&lt;br /&gt;
+we could run the &lt;a href=&quot;https://www.github.com/mateusz-piotrowski/fairy&quot;&gt;&lt;strong&gt;fairy&lt;/strong&gt;&lt;/a&gt; fairy app which gives us example causes ; - )&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="development" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Experience with the x-kom company app</title><link href="/posts/x-kom-app-experience/" rel="alternate" type="text/html" title="Experience with the x-kom company app" /><published>2021-08-02T01:00:04+02:00</published><updated>2021-08-02T01:00:04+02:00</updated><id>/posts/x-kom-app-experience</id><content type="html" xml:base="/posts/x-kom-app-experience/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://www.x-kom.pl/&quot;&gt;&lt;b&gt;x-kom&lt;/b&gt;&lt;/a&gt; is a company which everyone know.&lt;br /&gt;
 Currently, they are one of the biggest retailers of electronic articles in Poland.&lt;/p&gt;
