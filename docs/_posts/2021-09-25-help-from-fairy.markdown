@@ -26,6 +26,13 @@ we will meet a person who describes to us what the application or system should 
 But when the situation is hopeless and even reverse engineering don't give results,  
 we could run the [**fairy**](https://www.github.com/mateusz-piotrowski/fairy) app which gives us example causes ; - )  
 
+Currently, it is available in 2 (two) versions:
+- Bash
+- C
+
+I successively adding new ones - please be patient,  
+Also, I inviting you to contribute to this repository.
+
 It is everything that I have for today.  
 Everyone is a blacksmith of own fate.  
 Mateusz.
