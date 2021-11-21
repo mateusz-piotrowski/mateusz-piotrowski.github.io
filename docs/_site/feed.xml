@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-17T09:54:12+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Help from fairy</title><link href="/posts/help-from-fairy/" rel="alternate" type="text/html" title="Help from fairy" /><published>2021-09-25T01:00:05+02:00</published><updated>2021-09-25T01:00:05+02:00</updated><id>/posts/help-from-fairy</id><content type="html" xml:base="/posts/help-from-fairy/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-21T11:44:49+01:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Nextcloud on Samsung Galaxy S7 edge</title><link href="/posts/nextcloud-on-galaxy-s7-edge/" rel="alternate" type="text/html" title="Nextcloud on Samsung Galaxy S7 edge" /><published>2021-11-14T00:00:05+01:00</published><updated>2021-11-14T00:00:05+01:00</updated><id>/posts/nextcloud-on-galaxy-s7-edge</id><content type="html" xml:base="/posts/nextcloud-on-galaxy-s7-edge/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;These days, smartphones are a little computers that have the possibility to put in the pocket.&lt;br /&gt;
+Their performance increasing year by year.&lt;/p&gt;
+
+&lt;p&gt;I thought about which useful application may I run on it.&lt;br /&gt;
+The idea of application to install I found in &lt;a href=&quot;https://github.com/jancborchardt&quot;&gt;Jan C. Borchardt&lt;/a&gt; account, in &lt;a href=&quot;https://github.com/jancborchardt/nextcloud-scripts/blob/master/nextcloud-on-android.md&quot;&gt;nextcloud-scripts&lt;/a&gt; repository.&lt;/p&gt;
+
+&lt;p&gt;Today, I will describe how I ran &lt;strong&gt;Nextcloud&lt;/strong&gt; on &lt;strong&gt;Samsung Galaxy S7 edge&lt;/strong&gt; smartphone using &lt;strong&gt;Userland&lt;/strong&gt; app.&lt;/p&gt;
+
+&lt;p&gt;When I have been started &lt;strong&gt;Userland&lt;/strong&gt; app the first time I must choosed the Linux distro on which I want work and connection method.&lt;br /&gt;
+I choosed &lt;strong&gt;Ubuntu&lt;/strong&gt; in &lt;strong&gt;18.04&lt;/strong&gt; version.&lt;br /&gt;
+By default &lt;strong&gt;Userland&lt;/strong&gt; app using default &lt;strong&gt;Android&lt;/strong&gt; connections.&lt;/p&gt;
+
+&lt;p&gt;I tried check the IP address using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ifconfig&lt;/code&gt; command but &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;net-tools&lt;/code&gt; package has not been installed.&lt;/p&gt;
+
+&lt;p&gt;To be able to establish ssh connection from my MacBook I installed &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openssh&lt;/code&gt; package.&lt;br /&gt;
+To start ssh deamon I run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sshd&lt;/code&gt; command.&lt;br /&gt;
+I checked current user using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;whoami&lt;/code&gt; command.&lt;/p&gt;
+
+&lt;p&gt;On MacBook, I ran &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh &amp;lt;user&amp;gt;@&amp;lt;ipaddress&amp;gt;&lt;/code&gt;command, but I was not be able to connect.&lt;br /&gt;
+I must add a port to command to establish connection - a little help I found on &lt;strong&gt;GitHub&lt;/strong&gt; portal in the following thread:&lt;br /&gt;
+&lt;a href=&quot;https://github.com/CypherpunkArmory/UserLAnd/issues/1450&quot;&gt;CyberpunkArmory thread&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I ran the following command to prepare the environment for &lt;strong&gt;Nextcloud&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt upgrade
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I installed &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;htop&lt;/code&gt; to monitor the &lt;strong&gt;Galaxy S7 edge&lt;/strong&gt; perfomance but I met an issue that I still do not solve.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;htop
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To be able to clone &lt;strong&gt;Nextcloud&lt;/strong&gt; repository I need &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Editing files will be easier with powerful editor:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;vim
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The &lt;strong&gt;Nextcloud&lt;/strong&gt; need &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;php&lt;/code&gt; and a few dependencies to start so I installed them:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php-fpm
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;sqlite
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;coreutils
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;openssl-tool
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone https://github.com/nextcloud/server.git nextcloud
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;nextcloud/ &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; git submodule update &lt;span class=&quot;nt&quot;&gt;--init&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After the installation of this packages &lt;strong&gt;Nextcloud&lt;/strong&gt; returned a message about incorrect &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;php&lt;/code&gt; version,&lt;br /&gt;
+from the repository I installed &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.2&lt;/code&gt; version, but the required is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.3&lt;/code&gt; version.&lt;/p&gt;
+
+&lt;p&gt;So I removed the packages which I installed,&lt;br /&gt;
+and started again installing all packages in correct versions.&lt;/p&gt;
+
+&lt;p&gt;I edit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sources.list&lt;/code&gt; file and add the new repository:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;deb http://ppa.launchpad.net/ondrej/php/ubuntu bionic main
+deb-src http://ppa.launchpad.net/ondrej/php/ubuntu bionic main
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;In next step I tried update the repositories, but retrieved message with issue about Public GPG key.&lt;/p&gt;
+
+&lt;p&gt;The following command fix this issue:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;apt-key adv &lt;span class=&quot;nt&quot;&gt;--keyserver&lt;/span&gt; keyserver.ubuntu.com &lt;span class=&quot;nt&quot;&gt;--recv-keys&lt;/span&gt; 4F4EA0AAE5267A6C
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After successfully repositories update I installed the following packages:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-sqlite
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-zip
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-dom
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-mbstring
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-gd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;php7.3-curl
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After successfully packages installation, I start the &lt;strong&gt;Nextcloud&lt;/strong&gt; using the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php &lt;span class=&quot;nt&quot;&gt;-S&lt;/span&gt; 0.0.0.0:8080 &lt;span class=&quot;nt&quot;&gt;-t&lt;/span&gt; /home/&amp;lt;user_created_during_userland_setup&amp;gt;/nextcloud/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The Nextcloud has been started successfully.&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="userland" /><category term="android" /><category term="samsung" /><category term="s7" /><category term="edge" /><category term="nextcloud" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Help from fairy</title><link href="/posts/help-from-fairy/" rel="alternate" type="text/html" title="Help from fairy" /><published>2021-09-25T01:00:05+02:00</published><updated>2021-09-25T01:00:05+02:00</updated><id>/posts/help-from-fairy</id><content type="html" xml:base="/posts/help-from-fairy/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;Each of us - &lt;strong&gt;developers&lt;/strong&gt; - has been met it - a bug causes an issue.&lt;/p&gt;
 

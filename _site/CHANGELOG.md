@@ -1,10 +1,5 @@
 # The Changelog
 
-## [0.0.12] (Nov 14 2021)
-
-**Added :**
-- 6th post - Nextcloud on Samsung Galaxy S7 edge
-
 ## [0.0.11] (Oct 17 2021)
 
 **Updated :**
