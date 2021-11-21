@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Mateusz!
+I am an __open-source Influencer__ and __Evangelist of Software Development__.  
 
-I'm a hardware enginner, software developer and systems administrator in one person.  
+I like learning new things and meeting new technologies.  
 
-I like learn new things and meet new technologies.
+The part of me is a **developer**.  
+The part of me is an **administrator**.  
+The part of me is a **hardware engineer**.  
 

@@ -5,6 +5,12 @@
 **Added :**
 - 6th post - Nextcloud on Samsung Galaxy S7 edge
 
+**Updated :**
+- about.markdown file
+
+**Changed :**
+- index.markdown file
+
 ## [0.0.11] (Oct 17 2021)
 
 **Updated :**
