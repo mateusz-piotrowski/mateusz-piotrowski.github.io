@@ -20,7 +20,8 @@ but one of my teammates threw something like that:
 I answered:
 > I do not know.
 
-So, he told me about one book which should be good at the beginning: `Practice makes master`.
+So, he told me about one book which should be good at the beginning:  
+[`Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman`](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382).
 
 I bought it after my work.  
 This afternoon it was raining and the weather does not encourage to trip bookstore in the city center.  

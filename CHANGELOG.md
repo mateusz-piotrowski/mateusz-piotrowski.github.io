@@ -1,5 +1,10 @@
 # The Changelog
 
+## [0.0.13] (Nov 22 2021)
+
+**Updated :**
+- 1st post - The beginning
+
 ## [0.0.12] (Nov 14 2021)
 
 **Added :**
