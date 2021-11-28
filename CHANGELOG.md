@@ -1,5 +1,10 @@
 # The Changelog
 
+## [0.0.14] (Nov 28 2021)
+
+**Added :**
+- Empty Projects page
+
 ## [0.0.13] (Nov 22 2021)
 
 **Updated :**
