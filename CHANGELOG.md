@@ -1,5 +1,10 @@
 # The Changelog
 
+## [0.0.15] (Dec 18 2021)
+
+**Added :**
+- the notebook-installer project to Projects subpage
+
 ## [0.0.14] (Nov 28 2021)
 
 **Added :**
