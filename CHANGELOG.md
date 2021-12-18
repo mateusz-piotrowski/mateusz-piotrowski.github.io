@@ -4,6 +4,7 @@
 
 **Added :**
 - the notebook-installer project to Projects subpage
+- the linux-installer project to Projects subpage
 
 ## [0.0.14] (Nov 28 2021)
 
