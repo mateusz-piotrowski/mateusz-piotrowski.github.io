@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-12-18T14:20:50+01:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Nextcloud on Samsung Galaxy S7 edge</title><link href="/posts/nextcloud-on-galaxy-s7-edge/" rel="alternate" type="text/html" title="Nextcloud on Samsung Galaxy S7 edge" /><published>2021-11-14T00:00:05+01:00</published><updated>2021-11-14T00:00:05+01:00</updated><id>/posts/nextcloud-on-galaxy-s7-edge</id><content type="html" xml:base="/posts/nextcloud-on-galaxy-s7-edge/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-12-30T00:46:48+01:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">PostgreSQL installation</title><link href="/posts/postgresql-installation/" rel="alternate" type="text/html" title="PostgreSQL installation" /><published>2021-12-30T00:00:06+01:00</published><updated>2021-12-30T00:00:06+01:00</updated><id>/posts/postgresql-installation</id><content type="html" xml:base="/posts/postgresql-installation/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Today I will describe the installation process of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PostgreSQL&lt;/code&gt; database on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;macOS High Sierra&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some of you may ask: why I describe something like that when today we have technology like containerization,
+which solves for us each step and we don’t need to focus on little technical issues?&lt;/p&gt;
+
+&lt;p&gt;In my opinion, containerization is something great and very useful to quickly deliver working solutions,&lt;br /&gt;
+but when we want learn what happens under the hood we must go a step or steps lower to installation on bare metal.&lt;/p&gt;
+
+&lt;p&gt;I got started at the main web page of &lt;a href=&quot;https://www.postgresql.org&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PostgreSQL&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I found there information about the available &lt;strong&gt;Homebrew&lt;/strong&gt; package.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hint: How to install &lt;strong&gt;Homebrew&lt;/strong&gt; you could find at main web page of the project or use my &lt;strong&gt;&lt;a href=&quot;https://github.com/mateusz-piotrowski/mac-installer&quot;&gt;mac-installer&lt;/a&gt;&lt;/strong&gt; project.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When we already have &lt;strong&gt;Homebrew&lt;/strong&gt; installed we could start &lt;strong&gt;PostgreSQL&lt;/strong&gt; database installation:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;postgresql@12
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To handle database state useful will be &lt;strong&gt;Homebrew services&lt;/strong&gt;:&lt;br /&gt;
+To Install it I only need run the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew services
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Start &lt;strong&gt;postgresql&lt;/strong&gt; database:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew services run postgresql@12
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Check available users:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;psql postgres
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To be able to manage our fresh database useful will be &lt;strong&gt;pgAdmin&lt;/strong&gt; application.&lt;br /&gt;
+The latest is version 4.&lt;br /&gt;
+I install it using the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--cask&lt;/span&gt; pgadmin4
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;When I know available users I can try to connect to the database via &lt;strong&gt;pgAdmin&lt;/strong&gt; app.&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="macos" /><category term="postgresql" /><category term="pgadmin" /><category term="installation" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Nextcloud on Samsung Galaxy S7 edge</title><link href="/posts/nextcloud-on-galaxy-s7-edge/" rel="alternate" type="text/html" title="Nextcloud on Samsung Galaxy S7 edge" /><published>2021-11-14T00:00:05+01:00</published><updated>2021-11-14T00:00:05+01:00</updated><id>/posts/nextcloud-on-galaxy-s7-edge</id><content type="html" xml:base="/posts/nextcloud-on-galaxy-s7-edge/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;These days, smartphones are a little computers that have the possibility to put in the pocket.&lt;br /&gt;
 Their performance increasing year by year.&lt;/p&gt;

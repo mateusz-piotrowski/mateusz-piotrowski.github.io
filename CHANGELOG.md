@@ -1,5 +1,10 @@
 # The Changelog
 
+## [0.0.16] (Dec 30 2021)
+
+**Added :**
+- 7th post - PostgreSQL installation
+
 ## [0.0.15] (Dec 18 2021)
 
 **Added :**
