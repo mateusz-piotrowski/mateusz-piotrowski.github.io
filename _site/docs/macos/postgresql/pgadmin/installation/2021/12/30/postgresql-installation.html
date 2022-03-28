@@ -1,0 +1,50 @@
+<p>Hi all,</p>
+
+<p>Today I will describe the installation process of the <code class="language-plaintext highlighter-rouge">PostgreSQL</code> database on the <code class="language-plaintext highlighter-rouge">macOS High Sierra</code>.</p>
+
+<p>Some of you may ask: why I describe something like that when today we have technology like containerization,
+which solves for us each step and we don’t need to focus on little technical issues?</p>
+
+<p>In my opinion, containerization is something great and very useful to quickly deliver working solutions,<br />
+but when we want learn what happens under the hood we must go a step or steps lower to installation on bare metal.</p>
+
+<p>I got started at the main web page of <a href="https://www.postgresql.org"><code class="language-plaintext highlighter-rouge">PostgreSQL</code></a>.</p>
+
+<p>I found there information about the available <strong>Homebrew</strong> package.</p>
+
+<p><em>Hint: How to install <strong>Homebrew</strong> you could find at main web page of the project or use my <strong><a href="https://github.com/mateusz-piotrowski/mac-installer">mac-installer</a></strong> project.</em></p>
+
+<p>When we already have <strong>Homebrew</strong> installed we could start <strong>PostgreSQL</strong> database installation:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew <span class="nb">install </span>postgresql@12
+</code></pre></div></div>
+
+<p>To handle database state useful will be <strong>Homebrew services</strong>:<br />
+To Install it I only need run the following command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew services
+</code></pre></div></div>
+
+<p>Start <strong>postgresql</strong> database:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew services run postgresql@12
+</code></pre></div></div>
+
+<p>Check available users:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>psql postgres
+</code></pre></div></div>
+
+<p>To be able to manage our fresh database useful will be <strong>pgAdmin</strong> application.<br />
+The latest is version 4.<br />
+I install it using the following command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>brew <span class="nb">install</span> <span class="nt">--cask</span> pgadmin4
+</code></pre></div></div>
+
+<p>When I know available users I can try to connect to the database via <strong>pgAdmin</strong> app.</p>
+
+<p>It is everything that I have for today.<br />
+Everyone is a blacksmith of own fate.<br />
+Mateusz.</p>
+

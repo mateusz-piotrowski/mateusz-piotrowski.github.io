@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-12-30T00:46:48+01:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">PostgreSQL installation</title><link href="/posts/postgresql-installation/" rel="alternate" type="text/html" title="PostgreSQL installation" /><published>2021-12-30T00:00:06+01:00</published><updated>2021-12-30T00:00:06+01:00</updated><id>/posts/postgresql-installation</id><content type="html" xml:base="/posts/postgresql-installation/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-03-28T23:33:57+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Gitea Setup</title><link href="/posts/gitea-setup/" rel="alternate" type="text/html" title="Gitea Setup" /><published>2022-01-02T00:00:08+01:00</published><updated>2022-01-02T00:00:08+01:00</updated><id>/posts/gitea-setup</id><content type="html" xml:base="/posts/gitea-setup/">&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;When I already have installed and configured the&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PostgreSQL&lt;/code&gt; database I can set up the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gitea&lt;/code&gt; service.&lt;/p&gt;
+
+&lt;p&gt;I got started at the main web page of &lt;a href=&quot;https://gitea.com&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gitea&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I found there information about the available &lt;a href=&quot;https://docs.gitea.io/en-us/install-from-package/#macos&quot;&gt;&lt;strong&gt;Homebrew&lt;/strong&gt;&lt;/a&gt; package.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hint: How to install &lt;strong&gt;Homebrew&lt;/strong&gt; you could find on the main web page of the project&lt;br /&gt;
+or use my &lt;strong&gt;&lt;a href=&quot;https://github.com/mateusz-piotrowski/mac-installer&quot;&gt;mac-installer&lt;/a&gt;&lt;/strong&gt; project.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I already have &lt;strong&gt;Homebrew&lt;/strong&gt; installed I could start &lt;strong&gt;Gitea&lt;/strong&gt; service installation:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;gitea
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After successfully installation I run &lt;strong&gt;Gitea&lt;/strong&gt; via the following command:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;gitea
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In the next step, I configured &lt;strong&gt;Gitea&lt;/strong&gt; using the creator available via the web browser.&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="macos" /><category term="postgresql" /><category term="gitea" /><summary type="html">Hi all,</summary></entry><entry><title type="html">PostgreSQL installation</title><link href="/posts/postgresql-installation/" rel="alternate" type="text/html" title="PostgreSQL installation" /><published>2021-12-30T00:00:06+01:00</published><updated>2021-12-30T00:00:06+01:00</updated><id>/posts/postgresql-installation</id><content type="html" xml:base="/posts/postgresql-installation/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;Today I will describe the installation process of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PostgreSQL&lt;/code&gt; database on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;macOS High Sierra&lt;/code&gt;.&lt;/p&gt;
 

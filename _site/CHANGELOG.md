@@ -1,5 +1,38 @@
 # The Changelog
 
+## [0.0.16] (Dec 30 2021)
+
+**Added :**
+- 7th post - PostgreSQL installation
+
+## [0.0.15] (Dec 18 2021)
+
+**Added :**
+- the notebook-installer project to Projects subpage
+- the linux-installer project to Projects subpage
+- the mac-installer project to Projects subpage
+
+## [0.0.14] (Nov 28 2021)
+
+**Added :**
+- Empty Projects page
+
+## [0.0.13] (Nov 22 2021)
+
+**Updated :**
+- 1st post - The beginning
+
+## [0.0.12] (Nov 14 2021)
+
+**Added :**
+- 6th post - Nextcloud on Samsung Galaxy S7 edge
+
+**Updated :**
+- about.markdown file
+
+**Changed :**
+- index.markdown file
+
 ## [0.0.11] (Oct 17 2021)
 
 **Updated :**
