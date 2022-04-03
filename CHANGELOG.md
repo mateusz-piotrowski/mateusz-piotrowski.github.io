@@ -1,6 +1,12 @@
 # The Changelog
 
-## [0.0.17] (01 02 2021)
+## [0.0.18] (Feb 03 2022)
+
+**Updated :**
+
+- Projects list - update notebook-installer to windows-installer
+
+## [0.0.17] (Jan 02 2022)
 
 **Added :**
 
