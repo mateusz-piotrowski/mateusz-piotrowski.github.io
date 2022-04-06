@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.19] (Feb 06 2022)
+
+**Added :**
+
+- the header - add header for the installers
+
 ## [0.0.18] (Feb 03 2022)
 
 **Updated :**
