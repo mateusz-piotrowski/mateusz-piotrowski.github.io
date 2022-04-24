@@ -4,13 +4,14 @@
 
 **Added :**
 
-- Reading list section
+- The Reading list section
 - 9th post - notes from Apprenticeship Patterns book
 
 **Updated :**
 
 - 9th post - update chapter 2 formatting
 - 9th post - update chapter 3 formatting
+- The Reading list positions
 
 ## [0.0.19] (Feb 06 2022)
 
