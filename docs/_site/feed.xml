@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-24T08:24:58+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-04-24T22:42:15+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p&gt;Hi all,&lt;/p&gt;
 
-&lt;p&gt;Today I want share with you my notes after read Apprenticeship Patterns book.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382&quot;&gt;Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Today I want share with you my notes after read the following book:&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382&quot;&gt;Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;preface&quot;&gt;Preface&lt;/h1&gt;
 
@@ -51,28 +48,28 @@
   &lt;li&gt;&lt;strong&gt;Perl&lt;/strong&gt; Programming Language&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Basic&lt;/strong&gt; Programming Language&lt;/li&gt;
   &lt;li&gt;Apple IIe computer&lt;/li&gt;
-  &lt;li&gt;Java Applets&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; Applets&lt;/li&gt;
   &lt;li&gt;Perl. Programming. Book&lt;/li&gt;
   &lt;li&gt;Extreme Programming - XP&lt;/li&gt;
   &lt;li&gt;Agile Development&lt;/li&gt;
-  &lt;li&gt;Bob Martin&lt;/li&gt;
-  &lt;li&gt;Kent Beck&lt;/li&gt;
-  &lt;li&gt;Refactorisation to Project Patterns Book - Joshua Kerievsky&lt;/li&gt;
-  &lt;li&gt;‘Programowanie zorientowane obiektowo’ book&lt;/li&gt;
-  &lt;li&gt;‘Jezyk wzorców. Miasta, budynki, konstrukcja’ book - Christopher Alexander&lt;/li&gt;
-  &lt;li&gt;Ruby Programming Language&lt;/li&gt;
-  &lt;li&gt;Ruby on Rails Framework&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bob Martin&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kent Beck&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Refactorisation to Project Patterns&lt;/i&gt; - &lt;strong&gt;Joshua Kerievsky&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Programowanie zorientowane obiektowo&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Jezyk wzorców. Miasta, budynki, konstrukcja&lt;/i&gt; - &lt;strong&gt;Christopher Alexander&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby&lt;/strong&gt; Programming Language&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt; Framework&lt;/li&gt;
   &lt;li&gt;Carol Dweck - Growth Mindset&lt;/li&gt;
-  &lt;li&gt;‘Wewnetrzne poczucie umiejscowienia kontroli’&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wewnetrzne poczucie umiejscowienia kontroli&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;Etienne Wenger - Expert in Earshot pattern (Paul and Elixir language)&lt;/li&gt;
   &lt;li&gt;Software Craftmanship: The New Imperative - Pete McBreen book&lt;/li&gt;
-  &lt;li&gt;‘Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku’ book&lt;/li&gt;
-  &lt;li&gt;‘Refaktoryzacja. Ulepszanie struktury istniejącego kodu’ - Martin Fowler book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Refaktoryzacja. Ulepszanie struktury istniejącego kodu&lt;/i&gt; - &lt;strong&gt;Martin Fowler&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;chapter-2-empty-the-cup&quot;&gt;Chapter 2: Empty the cup&lt;/h1&gt;
 
-&lt;h2 id=&quot;your-first-language&quot;&gt;Your first language&lt;/h2&gt;
+&lt;h4 id=&quot;your-first-language&quot;&gt;Your first language&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Ruby&lt;/strong&gt; - irb console&lt;/li&gt;
@@ -80,126 +77,126 @@
   &lt;li&gt;&lt;strong&gt;Erlang&lt;/strong&gt; - erb&lt;/li&gt;
   &lt;li&gt;Firefox - Firebug&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;TDD&lt;/strong&gt; - &lt;strong&gt;&lt;i&gt;Test Driven Development&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;‘Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku’ - Ralph Johnson book&lt;/li&gt;
-  &lt;li&gt;Effective Perl Programming book&lt;/li&gt;
-  &lt;li&gt;‘Java. Efektywne programowanie’ book&lt;/li&gt;
-  &lt;li&gt;‘C++. 50 efektywnych sposobów na udoskonalenie Twoich programów’ book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku&lt;/i&gt; - &lt;strong&gt;Ralph Johnson&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Effective &lt;strong&gt;Perl&lt;/strong&gt; Programming&lt;/i&gt;book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Java. Efektywne programowanie&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;C++. 50 efektywnych sposobów na udoskonalenie Twoich programów&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;The shape of your mind - Eric Merritt blog&lt;/li&gt;
-  &lt;li&gt;‘Pragratyczny programista. Od czeladnika do  mistrza’ book - Dave Thomas, Andy Hunt&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Pragratyczny programista. Od czeladnika do  mistrza&lt;/i&gt; - &lt;strong&gt;Dave Thomas&lt;/strong&gt;, &lt;strong&gt;Andy Hunt&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Muench method&lt;/li&gt;
   &lt;li&gt;Schwartz transformation&lt;/li&gt;
   &lt;li&gt;Duff mechanism&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;the-white-belt&quot;&gt;The White belt&lt;/h2&gt;
+&lt;h4 id=&quot;the-white-belt&quot;&gt;The White belt&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Mastery: The Keys to Success and Long-Term Fulfillment - George Leonard book&lt;/li&gt;
   &lt;li&gt;Psychology Abraham Maslow&lt;/li&gt;
   &lt;li&gt;Ashleigh Montagu&lt;/li&gt;
   &lt;li&gt;Michael Feathers developer&lt;/li&gt;
-  &lt;li&gt;‘Praca z zastanym kodem. Najlepsze techniki’ book&lt;/li&gt;
-  &lt;li&gt;Becoming a Technical Leader - Jerry Weinberg book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Praca z zastanym kodem. Najlepsze techniki&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Becoming a Technical Leader&lt;/i&gt; - &lt;trong&gt;Jerry Weinberg&amp;lt;/strong&amp;gt; book&lt;/trong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;release-your-enthusiasm&quot;&gt;Release your enthusiasm&lt;/h2&gt;
+&lt;h4 id=&quot;release-your-enthusiasm&quot;&gt;Release your enthusiasm&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Mądrość tłumu. Większość ma rację w ekonomii, biznesie i polityce’ - James Surowiecki book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Mądrość tłumu. Większość ma rację w ekonomii, biznesie i polityce&lt;/i&gt; - &lt;strong&gt;James Surowiecki&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Collective Mind in Organizations - Karl Weick and Karlene Roberts book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;specific-skills&quot;&gt;Specific skills&lt;/h2&gt;
+&lt;h4 id=&quot;specific-skills&quot;&gt;Specific skills&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Hibernate&lt;/li&gt;
   &lt;li&gt;Struts&lt;/li&gt;
-  &lt;li&gt;Review jour CV regularly to create list of your strong skills&lt;/li&gt;
+  &lt;li&gt;TODO: Review jour CV regularly to create list of your strong skills&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;admit-your-ignorance&quot;&gt;Admit your ignorance&lt;/h2&gt;
+&lt;h4 id=&quot;admit-your-ignorance&quot;&gt;Admit your ignorance&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;My Apparenticeship at Object Mentor - Jake Scruggs book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;My Apparenticeship at Object Mentor&lt;/i&gt; - &lt;strong&gt;Jake Scruggs&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;face-your-ignorance&quot;&gt;Face your ignorance&lt;/h2&gt;
+&lt;h4 id=&quot;face-your-ignorance&quot;&gt;Face your ignorance&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘O stawaniu się osobą. Poglądy terapeuty na psychologię - Carl Rogers book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;O stawaniu się osobą. Poglądy terapeuty na psychologię&lt;/i&gt; - &lt;strong&gt;Carl Rogers&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;deep-water&quot;&gt;Deep water&lt;/h2&gt;
+&lt;h4 id=&quot;deep-water&quot;&gt;Deep water&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;So you want to be a Software Consultant? - Christopher Hawkins book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;So you want to be a Software Consultant?&lt;/i&gt; - &lt;strong&gt;Christopher Hawkins&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;withdraw-into-competence&quot;&gt;Withdraw into competence&lt;/h2&gt;
+&lt;h4 id=&quot;withdraw-into-competence&quot;&gt;Withdraw into competence&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Zen i sztuka obsługi motocykla - Robert Pirsig book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Zen i sztuka obsługi motocykla&lt;/i&gt; - &lt;strong&gt;Robert Pirsig&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;charter-3-walking-along-a-long-way&quot;&gt;Charter 3: Walking along a long way&lt;/h1&gt;
 
-&lt;h2 id=&quot;long-way&quot;&gt;Long way&lt;/h2&gt;
+&lt;h4 id=&quot;long-way&quot;&gt;Long way&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;http://perlmonks.org&lt;/li&gt;
   &lt;li&gt;com.lang.perl.*&lt;/li&gt;
   &lt;li&gt;Extreme Programming Installed - Ron Jeffries book&lt;/li&gt;
-  &lt;li&gt;Donald Knuth&lt;/li&gt;
-  &lt;li&gt;Linus Torvalds&lt;/li&gt;
-  &lt;li&gt;‘Prawo Moore’a’&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Donald Knuth&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Linus Torvalds&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Prawo Moore’a&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;craftsmanship-over-art&quot;&gt;Craftsmanship over art&lt;/h2&gt;
+&lt;h4 id=&quot;craftsmanship-over-art&quot;&gt;Craftsmanship over art&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Art and Computer Programming- Richard Stallman&lt;/li&gt;
+  &lt;li&gt;Art and Computer Programming - &lt;strong&gt;Richard Stallman&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;solid-motivation&quot;&gt;Solid motivation&lt;/h2&gt;
+&lt;h4 id=&quot;solid-motivation&quot;&gt;Solid motivation&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The Psychology of Computer Programming- Jerry Weinberg book&lt;/li&gt;
-  &lt;li&gt;‘Hakerzy i malarze. Wielkie idee ery komputerów’ - Paul Graham book&lt;/li&gt;
-  &lt;li&gt;More Secrets of Consulting: The Consultant’s Tool Kit - Jerry Weinberg book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;The Psychology of Computer Programming&lt;/i&gt; - &lt;strong&gt;Jerry Weinberg&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Hakerzy i malarze. Wielkie idee ery komputerów&lt;/i&gt; - &lt;strong&gt;Paul Graham&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;More Secrets of Consulting: The Consultant’s Tool Kit&lt;/i&gt; - &lt;strong&gt;Jerry Weinberg&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;cherish-your-passions&quot;&gt;Cherish your passions&lt;/h2&gt;
+&lt;h4 id=&quot;cherish-your-passions&quot;&gt;Cherish your passions&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Mityczny osobomiesiąc. Eseje o inżynierii oprogramowania’ - Frederick Brooks book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Mityczny osobomiesiąc. Eseje o inżynierii oprogramowania&lt;/i&gt; - &lt;strong&gt;Frederick Brooks&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Great Hackers presentation&lt;/li&gt;
   &lt;li&gt;0SCON - O’Reilly 0pen Source Convention&lt;/li&gt;
   &lt;li&gt;Knowledge Hydrant pattern&lt;/li&gt;
-  &lt;li&gt;A Pattern Language for Study Groups- Joshua Kerievsky publication&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;i&gt;A Pattern Language for Study Groups&lt;/i&gt;&lt;/strong&gt; - &lt;strong&gt;Joshua Kerievsky&lt;/strong&gt; publication&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;draw-your-own-map&quot;&gt;draw your own map&lt;/h2&gt;
+&lt;h4 id=&quot;draw-your-own-map&quot;&gt;Draw your own map&lt;/h4&gt;
 
-&lt;h2 id=&quot;use-your-title&quot;&gt;use your title&lt;/h2&gt;
+&lt;h4 id=&quot;use-your-title&quot;&gt;Use your title&lt;/h4&gt;
 
-&lt;h2 id=&quot;stay-in-the-trenches&quot;&gt;stay in the trenches&lt;/h2&gt;
+&lt;h4 id=&quot;stay-in-the-trenches&quot;&gt;Stay in the trenches&lt;/h4&gt;
 
-&lt;h2 id=&quot;another-way&quot;&gt;another way&lt;/h2&gt;
+&lt;h4 id=&quot;another-way&quot;&gt;Another way&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Duży mały poradnik życia’ - H. Jackson Brown Jr book&lt;/li&gt;
-  &lt;li&gt;The Peopleware Papers: Notes on the Human Side of Software - Larry Constantine book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Duży mały poradnik życia&lt;/i&gt; - &lt;strong&gt;H. Jackson Brown Jr.&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;The Peopleware Papers: Notes on the Human Side of Software&lt;/i&gt; - &lt;strong&gt;Larry Constantine&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;h4 id=&quot;summary&quot;&gt;Summary&lt;/h4&gt;
 
 &lt;h1 id=&quot;chapter-4-proper-self-esteem&quot;&gt;Chapter 4: Proper self-esteem&lt;/h1&gt;
 
-&lt;h2 id=&quot;be-the-worst&quot;&gt;be the worst&lt;/h2&gt;
+&lt;h4 id=&quot;be-the-worst&quot;&gt;be the worst&lt;/h4&gt;
 
-&lt;h2 id=&quot;find-mentors&quot;&gt;find mentors&lt;/h2&gt;
+&lt;h4 id=&quot;find-mentors&quot;&gt;find mentors&lt;/h4&gt;
 
-&lt;h2 id=&quot;soul-mates&quot;&gt;soul mates&lt;/h2&gt;
+&lt;h4 id=&quot;soul-mates&quot;&gt;soul mates&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Extreme Programming Explained: Embrance Change book&lt;/li&gt;
@@ -208,7 +205,7 @@
   &lt;li&gt;‘Czynnik ludzki. Skuteczne przedsięwzięcia i wydajne zespoły’ book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;friendship&quot;&gt;friendship&lt;/h2&gt;
+&lt;h4 id=&quot;friendship&quot;&gt;friendship&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Pair Programming&lt;/li&gt;
@@ -217,7 +214,7 @@
   &lt;li&gt;‘Etyka dobrej roboty’ - Richard Sennet book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;remember-the-floor&quot;&gt;remember the floor&lt;/h2&gt;
+&lt;h4 id=&quot;remember-the-floor&quot;&gt;remember the floor&lt;/h4&gt;
 
 &lt;h1 id=&quot;chapter-5-constant-learning&quot;&gt;Chapter 5: Constant learning&lt;/h1&gt;
 
@@ -226,7 +223,7 @@
   &lt;li&gt;Developer Andy Hunt&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;increase-your-bandwidth&quot;&gt;increase your bandwidth&lt;/h2&gt;
+&lt;h4 id=&quot;increase-your-bandwidth&quot;&gt;increase your bandwidth&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Agile Software Development Ecosystem  - Jim Highsmith book&lt;/li&gt;
@@ -240,7 +237,7 @@
   &lt;li&gt;Obtiva Software Studio&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;practice-practice-practice&quot;&gt;Practice Practice Practice&lt;/h2&gt;
+&lt;h4 id=&quot;practice-practice-practice&quot;&gt;Practice Practice Practice&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;‘Perełki oprogramowania book&lt;/li&gt;
@@ -249,7 +246,7 @@
   &lt;li&gt;Etudes for Programmers book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;toys-to-break&quot;&gt;toys to break&lt;/h2&gt;
+&lt;h4 id=&quot;toys-to-break&quot;&gt;toys to break&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Shortest Wiki Contest&lt;/li&gt;
@@ -257,7 +254,7 @@
   &lt;li&gt;Wiki system from scratch&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;use-the-source&quot;&gt;use the source&lt;/h2&gt;
+&lt;h4 id=&quot;use-the-source&quot;&gt;use the source&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Programmers at work - Bill Gates book&lt;/li&gt;
@@ -266,33 +263,34 @@
   &lt;li&gt;Task: review open source version control code, ex. git&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;be-reflective-when-working&quot;&gt;be reflective when working&lt;/h2&gt;
+&lt;h4 id=&quot;be-reflective-when-working&quot;&gt;be reflective when working&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Project Retrospectives: A handbook for Teams Reviews - Norm Kerth book&lt;/li&gt;
   &lt;li&gt;Personal Practices Map&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;write-down-what-you-are-learning&quot;&gt;write down what you are learning&lt;/h2&gt;
+&lt;h4 id=&quot;write-down-what-you-are-learning&quot;&gt;write down what you are learning&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Lepiej. Zapiski chirurga o efektywności medycyny - Atul Gawande book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;share-what-you-learn&quot;&gt;share what you learn&lt;/h2&gt;
+&lt;h4 id=&quot;share-what-you-learn&quot;&gt;share what you learn&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;The Creative Habit: Learn It and Use It for Life - Twyla Tharp book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;create-loops-of-feedback&quot;&gt;create loops of feedback&lt;/h2&gt;
+&lt;h4 id=&quot;create-loops-of-feedback&quot;&gt;create loops of feedback&lt;/h4&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Dave Winer - What is Stop Energy?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;learn-how-you-fail&quot;&gt;learn how you fail&lt;/h2&gt;
+&lt;h4 id=&quot;learn-how-you-fail&quot;&gt;learn how you fail&lt;/h4&gt;
 
-&lt;h2 id=&quot;summary-1&quot;&gt;summary&lt;/h2&gt;
+&lt;h4 id=&quot;summary-1&quot;&gt;summary&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Philip Armour - The Five Orders of Ignorance&lt;/li&gt;
@@ -308,7 +306,7 @@
   &lt;li&gt;Kent Beck&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;reading-list&quot;&gt;reading list&lt;/h2&gt;
+&lt;h4 id=&quot;reading-list&quot;&gt;reading list&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;A school Is a Lousy Place to Learn Anything In - Howard S. Becker&lt;/li&gt;
@@ -322,21 +320,21 @@
   &lt;li&gt;TODO: Create file with reading list, put there currently reading list and update it regularly&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;constantly-read&quot;&gt;constantly read&lt;/h2&gt;
+&lt;h4 id=&quot;constantly-read&quot;&gt;constantly read&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;‘Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.’ - Steve McConnell book&lt;/li&gt;
   &lt;li&gt;Put books over blogs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;study-the-classics&quot;&gt;study the classics&lt;/h2&gt;
+&lt;h4 id=&quot;study-the-classics&quot;&gt;study the classics&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Joshua Kerievsky- Knowledge Hydrant: A Pattern Language for Study Groups&lt;/li&gt;
   &lt;li&gt;The Psychology of Computer Programming book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;dig-deeper&quot;&gt;dig deeper&lt;/h2&gt;
+&lt;h4 id=&quot;dig-deeper&quot;&gt;dig deeper&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Steven S. Sukienka - The Algorithm Design Manual&lt;/li&gt;
@@ -344,7 +342,7 @@
   &lt;li&gt;Steve Vinoski - RPC&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;familiar-tools&quot;&gt;familiar tools&lt;/h2&gt;
+&lt;h4 id=&quot;familiar-tools&quot;&gt;familiar tools&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Eric Hoffer - Reflections on the Human Condition&lt;/li&gt;
