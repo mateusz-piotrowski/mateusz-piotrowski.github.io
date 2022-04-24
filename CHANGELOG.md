@@ -1,5 +1,12 @@
 # The Changelog
 
+## [0.0.20] (Apr 24 2022)
+
+**Added :**
+
+- Reading list section
+- 9th post - notes from Apprenticeship Patterns book
+
 ## [0.0.19] (Feb 06 2022)
 
 **Added :**
