@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.21] (May 08 2022)
+
+**Updated :**
+
+- about.md file - update about section
+
 ## [0.0.20] (Apr 24 2022)
 
 **Added :**
