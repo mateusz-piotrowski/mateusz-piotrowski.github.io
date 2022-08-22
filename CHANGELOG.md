@@ -5,6 +5,7 @@
 **Added :**
 
 - Post last modified date
+- Add 10th post - notes from The Pragmatic Programmer: From Journeyman to Master book
 
 **Updated :**
 
