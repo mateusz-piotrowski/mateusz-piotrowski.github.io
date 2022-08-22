@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.22] (Aug 22 2022)
+
+**Added :**
+
+- Post last modified date
+
+**Updated :**
+
+- 9th post - notes from Apprenticeship Patterns book layout
+
 ## [0.0.21] (May 08 2022)
 
 **Updated :**

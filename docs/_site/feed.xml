@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-05-08T22:41:39+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p&gt;Hi all,&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-08-22T21:01:40+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 22 2022&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;Today I want share with you my notes after read the following book:&lt;br /&gt;
 &lt;a href=&quot;https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382&quot;&gt;Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman&lt;/a&gt;.&lt;/p&gt;
@@ -8,7 +10,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Kent Back&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Tektronix&lt;/i&gt; Company&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;Smalltalk-80&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Smalltalk-80&lt;/strong&gt;&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;Agile Programming&lt;/li&gt;
   &lt;li&gt;Craftmanship&lt;/li&gt;
 &lt;/ul&gt;
@@ -20,7 +22,7 @@
   &lt;li&gt;Stickyminds.com&lt;/li&gt;
   &lt;li&gt;Software Craftmanship&lt;/li&gt;
   &lt;li&gt;Developer &lt;strong&gt;Chris Morris&lt;/strong&gt; blog&lt;/li&gt;
-  &lt;li&gt;Pat Metheny guitar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pat Metheny&lt;/strong&gt; guitar&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dave blog&lt;/strong&gt; - redsquirrel.com&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Laurent Bossavit&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Darragh Farrel&lt;/strong&gt;&lt;/li&gt;
@@ -45,11 +47,11 @@
 &lt;h1 id=&quot;chapter-1-introduction&quot;&gt;Chapter 1: Introduction&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Perl&lt;/strong&gt; Programming Language&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Basic&lt;/strong&gt; Programming Language&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Perl&lt;/strong&gt;&lt;/i&gt; Programming Language&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Basic&lt;/strong&gt;&lt;/i&gt; Programming Language&lt;/li&gt;
   &lt;li&gt;Apple IIe computer&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; Applets&lt;/li&gt;
-  &lt;li&gt;Perl. Programming. Book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/i&gt; Applets&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Perl. Programming.&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;Extreme Programming - XP&lt;/li&gt;
   &lt;li&gt;Agile Development&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Bob Martin&lt;/strong&gt;&lt;/li&gt;
@@ -61,9 +63,9 @@
   &lt;li&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt; Framework&lt;/li&gt;
   &lt;li&gt;Carol Dweck - Growth Mindset&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Wewnetrzne poczucie umiejscowienia kontroli&lt;/i&gt; book&lt;/li&gt;
-  &lt;li&gt;Etienne Wenger - Expert in Earshot pattern (Paul and Elixir language)&lt;/li&gt;
-  &lt;li&gt;Software Craftmanship: The New Imperative - Pete McBreen book&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Etienne Wenger&lt;/strong&gt; - Expert in Earshot pattern (Paul and Elixir language)&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Software Craftmanship: The New Imperative&lt;/i&gt; - &lt;strong&gt;Pete McBreen&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Refaktoryzacja. Ulepszanie struktury istniejącego kodu&lt;/i&gt; - &lt;strong&gt;Martin Fowler&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -72,16 +74,16 @@
 &lt;h4 id=&quot;your-first-language&quot;&gt;Your first language&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby&lt;/strong&gt; - irb console&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt; Framework - script/console&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Erlang&lt;/strong&gt; - erb&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Ruby&lt;/strong&gt;&lt;/i&gt; - irb console&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt;&lt;/i&gt; Framework - script/console&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Erlang&lt;/strong&gt;&lt;/i&gt; - erb&lt;/li&gt;
   &lt;li&gt;Firefox - Firebug&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;TDD&lt;/strong&gt; - &lt;strong&gt;&lt;i&gt;Test Driven Development&lt;/i&gt;&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku&lt;/i&gt; - &lt;strong&gt;Ralph Johnson&lt;/strong&gt; book&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;Effective &lt;strong&gt;Perl&lt;/strong&gt; Programming&lt;/i&gt;book&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;Java. Efektywne programowanie&lt;/i&gt; book&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;C++. 50 efektywnych sposobów na udoskonalenie Twoich programów&lt;/i&gt; book&lt;/li&gt;
-  &lt;li&gt;The shape of your mind - Eric Merritt blog&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Effective &lt;strong&gt;Perl&lt;/strong&gt; Programming &lt;/i&gt;book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Java&lt;/strong&gt;. Efektywne programowanie&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;C++&lt;/strong&gt;. 50 efektywnych sposobów na udoskonalenie Twoich programów&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;The shape of your mind - &lt;strong&gt;Eric Merritt&lt;/strong&gt; blog&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Pragratyczny programista. Od czeladnika do  mistrza&lt;/i&gt; - &lt;strong&gt;Dave Thomas&lt;/strong&gt;, &lt;strong&gt;Andy Hunt&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Muench method&lt;/li&gt;
   &lt;li&gt;Schwartz transformation&lt;/li&gt;
@@ -91,26 +93,26 @@
 &lt;h4 id=&quot;the-white-belt&quot;&gt;The White belt&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Mastery: The Keys to Success and Long-Term Fulfillment - George Leonard book&lt;/li&gt;
-  &lt;li&gt;Psychology Abraham Maslow&lt;/li&gt;
-  &lt;li&gt;Ashleigh Montagu&lt;/li&gt;
-  &lt;li&gt;Michael Feathers developer&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Mastery: The Keys to Success and Long-Term Fulfillment&lt;/i&gt; - &lt;strong&gt;George Leonard&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;Psychology &lt;strong&gt;Abraham Maslow&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ashleigh Montagu&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Michael Feathers&lt;/strong&gt; developer&lt;/li&gt;
   &lt;li&gt;&lt;i&gt;Praca z zastanym kodem. Najlepsze techniki&lt;/i&gt; book&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;Becoming a Technical Leader&lt;/i&gt; - &lt;trong&gt;Jerry Weinberg&amp;lt;/strong&amp;gt; book&lt;/trong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Becoming a Technical Leader&lt;/i&gt; - &lt;strong&gt;Jerry Weinberg&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;release-your-enthusiasm&quot;&gt;Release your enthusiasm&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;i&gt;Mądrość tłumu. Większość ma rację w ekonomii, biznesie i polityce&lt;/i&gt; - &lt;strong&gt;James Surowiecki&lt;/strong&gt; book&lt;/li&gt;
-  &lt;li&gt;Collective Mind in Organizations - Karl Weick and Karlene Roberts book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Collective Mind in Organizations&lt;/i&gt; - &lt;strong&gt;Karl Weick&lt;/strong&gt; and &lt;strong&gt;Karlene Roberts&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;specific-skills&quot;&gt;Specific skills&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Hibernate&lt;/li&gt;
-  &lt;li&gt;Struts&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Hibernate&lt;/strong&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;&lt;strong&gt;Struts&lt;/strong&gt;&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;TODO: Review jour CV regularly to create list of your strong skills&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -145,7 +147,7 @@
 &lt;ul&gt;
   &lt;li&gt;http://perlmonks.org&lt;/li&gt;
   &lt;li&gt;com.lang.perl.*&lt;/li&gt;
-  &lt;li&gt;Extreme Programming Installed - Ron Jeffries book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Extreme Programming Installed&lt;/i&gt; - &lt;strong&gt;Ron Jeffries&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Donald Knuth&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Linus Torvalds&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Prawo Moore’a&lt;/li&gt;
@@ -192,47 +194,47 @@
 
 &lt;h1 id=&quot;chapter-4-proper-self-esteem&quot;&gt;Chapter 4: Proper self-esteem&lt;/h1&gt;
 
-&lt;h4 id=&quot;be-the-worst&quot;&gt;be the worst&lt;/h4&gt;
+&lt;h4 id=&quot;be-the-worst&quot;&gt;Be the worst&lt;/h4&gt;
 
-&lt;h4 id=&quot;find-mentors&quot;&gt;find mentors&lt;/h4&gt;
+&lt;h4 id=&quot;find-mentors&quot;&gt;Find mentors&lt;/h4&gt;
 
-&lt;h4 id=&quot;soul-mates&quot;&gt;soul mates&lt;/h4&gt;
+&lt;h4 id=&quot;soul-mates&quot;&gt;Soul mates&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Extreme Programming Explained: Embrance Change book&lt;/li&gt;
-  &lt;li&gt;‘Refaktoryzacja. Ulepszanie struktury istniejącego kodu’ book&lt;/li&gt;
-  &lt;li&gt;‘Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku’ book&lt;/li&gt;
-  &lt;li&gt;‘Czynnik ludzki. Skuteczne przedsięwzięcia i wydajne zespoły’ book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Extreme Programming Explained: Embrance Change&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Refaktoryzacja. Ulepszanie struktury istniejącego kodu&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Czynnik ludzki. Skuteczne przedsięwzięcia i wydajne zespoły&lt;/i&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;friendship&quot;&gt;friendship&lt;/h4&gt;
+&lt;h4 id=&quot;friendship&quot;&gt;Friendship&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Pair Programming&lt;/li&gt;
   &lt;li&gt;TDD&lt;/li&gt;
   &lt;li&gt;Ping-Pong Programming&lt;/li&gt;
-  &lt;li&gt;‘Etyka dobrej roboty’ - Richard Sennet book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Etyka dobrej roboty&lt;/i&gt; - &lt;strong&gt;Richard Sennet&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;remember-the-floor&quot;&gt;remember the floor&lt;/h4&gt;
+&lt;h4 id=&quot;remember-the-floor&quot;&gt;Remember the floor&lt;/h4&gt;
 
 &lt;h1 id=&quot;chapter-5-constant-learning&quot;&gt;Chapter 5: Constant learning&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Nauka w czasach wojny’ - ‘Brzemię chwały’ - C.S. Lewis book&lt;/li&gt;
-  &lt;li&gt;Developer Andy Hunt&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Nauka w czasach wojny - Brzemię chwały&lt;/i&gt; - &lt;strong&gt;C.S. Lewis&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;Developer &lt;strong&gt;Andy Hunt&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;increase-your-bandwidth&quot;&gt;increase your bandwidth&lt;/h4&gt;
+&lt;h4 id=&quot;increase-your-bandwidth&quot;&gt;Increase your bandwidth&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Agile Software Development Ecosystem  - Jim Highsmith book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Agile Software Development Ecosystem&lt;/i&gt; - &lt;strong&gt;Jim Highsmith&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Tim O’Reilly - Watching the “Alpha Geeks” OS X and the Next Big Think&lt;/li&gt;
   &lt;li&gt;GoogleTechTalks&lt;/li&gt;
-  &lt;li&gt;Perl Programming Language&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Perl&lt;/strong&gt; Programming Language&lt;/li&gt;
   &lt;li&gt;http://perlmonks.org/&lt;/li&gt;
-  &lt;li&gt;Extreme Programming Explained: Embrance Change - Kent Beck book&lt;/li&gt;
-  &lt;li&gt;Ruby on Rails Framework&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Extreme Programming Explained: Embrance Change&lt;/i&gt; - &lt;strong&gt;Kent Beck&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruby on Rails&lt;/strong&gt; Framework&lt;/li&gt;
   &lt;li&gt;Obtiva&lt;/li&gt;
   &lt;li&gt;Obtiva Software Studio&lt;/li&gt;
 &lt;/ul&gt;
@@ -240,13 +242,13 @@
 &lt;h4 id=&quot;practice-practice-practice&quot;&gt;Practice Practice Practice&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Perełki oprogramowania book&lt;/li&gt;
-  &lt;li&gt;‘Więcej perełek oprogramowania’ book&lt;/li&gt;
-  &lt;li&gt;‘Wyznania programisty’ book&lt;/li&gt;
-  &lt;li&gt;Etudes for Programmers book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Perełki oprogramowania&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Więcej perełek oprogramowania&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wyznania programisty&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Etudes for Programmers&lt;/i&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;toys-to-break&quot;&gt;toys to break&lt;/h4&gt;
+&lt;h4 id=&quot;toys-to-break&quot;&gt;Toys to break&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Shortest Wiki Contest&lt;/li&gt;
@@ -254,87 +256,87 @@
   &lt;li&gt;Wiki system from scratch&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;use-the-source&quot;&gt;use the source&lt;/h4&gt;
+&lt;h4 id=&quot;use-the-source&quot;&gt;Use the source&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Programmers at work - Bill Gates book&lt;/li&gt;
-  &lt;li&gt;Linus Torwalds blog&lt;/li&gt;
-  &lt;li&gt;Daniel J. Bernstein blog&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Programmers at work&lt;/i&gt; - &lt;strong&gt;Bill Gates&lt;/strong&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Linus Torwalds&lt;/strong&gt; blog&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Daniel J. Bernstein&lt;/strong&gt; blog&lt;/li&gt;
   &lt;li&gt;Task: review open source version control code, ex. git&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;be-reflective-when-working&quot;&gt;be reflective when working&lt;/h4&gt;
+&lt;h4 id=&quot;be-reflective-when-working&quot;&gt;Be reflective when working&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Project Retrospectives: A handbook for Teams Reviews - Norm Kerth book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Project Retrospectives: A handbook for Teams Reviews&lt;/i&gt; - &lt;strong&gt;Norm Kerth&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Personal Practices Map&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;write-down-what-you-are-learning&quot;&gt;write down what you are learning&lt;/h4&gt;
+&lt;h4 id=&quot;write-down-what-you-are-learning&quot;&gt;Write down what you are learning&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Lepiej. Zapiski chirurga o efektywności medycyny - Atul Gawande book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Lepiej. Zapiski chirurga o efektywności medycyny&lt;/i&gt; - &lt;strong&gt;Atul Gawande&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;share-what-you-learn&quot;&gt;share what you learn&lt;/h4&gt;
+&lt;h4 id=&quot;share-what-you-learn&quot;&gt;Share what you learn&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The Creative Habit: Learn It and Use It for Life - Twyla Tharp book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;The Creative Habit: Learn It and Use It for Life&lt;/i&gt; - &lt;strong&gt;Twyla Tharp&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;create-loops-of-feedback&quot;&gt;create loops of feedback&lt;/h4&gt;
+&lt;h4 id=&quot;create-loops-of-feedback&quot;&gt;Create loops of feedback&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Dave Winer - What is Stop Energy?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;learn-how-you-fail&quot;&gt;learn how you fail&lt;/h4&gt;
+&lt;h4 id=&quot;learn-how-you-fail&quot;&gt;Learn how you fail&lt;/h4&gt;
 
-&lt;h4 id=&quot;summary-1&quot;&gt;summary&lt;/h4&gt;
+&lt;h4 id=&quot;summary-1&quot;&gt;Summary&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Philip Armour - The Five Orders of Ignorance&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;The Five Orders of Ignorance&lt;/i&gt; - &lt;strong&gt;Philip Armour&lt;/strong&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;chapter-6-construct-your-learning-program&quot;&gt;Chapter 6: construct your learning program&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Zen i sztuka obsługi motocykla - Robert Pirsig book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Zen i sztuka obsługi motocykla&lt;/i&gt; - &lt;strong&gt;Robert Pirsig&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Jerry Weinberg&lt;/li&gt;
   &lt;li&gt;Fred Brooks&lt;/li&gt;
   &lt;li&gt;Steve McConnell&lt;/li&gt;
-  &lt;li&gt;Kent Beck&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kent Beck&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;reading-list&quot;&gt;reading list&lt;/h4&gt;
+&lt;h4 id=&quot;reading-list&quot;&gt;Reading list&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;A school Is a Lousy Place to Learn Anything In - Howard S. Becker&lt;/li&gt;
   &lt;li&gt;http://bookshelves.org/&lt;/li&gt;
-  &lt;li&gt;35 chapter from book: ‘Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.’ book&lt;/li&gt;
-  &lt;li&gt;‘Pragratyczny programista. Od czeladnika do mistrza’ book&lt;/li&gt;
+  &lt;li&gt;35 chapter from book: &lt;i&gt;Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Pragratyczny programista. Od czeladnika do mistrza&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;Book chain - Ravi Mohan&lt;/li&gt;
   &lt;li&gt;Sequential Study from: Pattern Language for Study Groups - Joshua Kerievsky&lt;/li&gt;
-  &lt;li&gt;‘Refaktoryzacja. Ulepszanie struktury istniejącego kodu’&lt;/li&gt;
-  &lt;li&gt;‘Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.’&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Refaktoryzacja. Ulepszanie struktury istniejącego kodu&lt;/i&gt; book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;TODO: Create file with reading list, put there currently reading list and update it regularly&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;constantly-read&quot;&gt;constantly read&lt;/h4&gt;
+&lt;h4 id=&quot;constantly-read&quot;&gt;Constantly read&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;‘Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.’ - Steve McConnell book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.&lt;/i&gt; - &lt;strong&gt;Steve McConnell&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Put books over blogs&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;study-the-classics&quot;&gt;study the classics&lt;/h4&gt;
+&lt;h4 id=&quot;study-the-classics&quot;&gt;Study the classics&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Joshua Kerievsky- Knowledge Hydrant: A Pattern Language for Study Groups&lt;/li&gt;
-  &lt;li&gt;The Psychology of Computer Programming book&lt;/li&gt;
+  &lt;li&gt;Joshua Kerievsky - Knowledge Hydrant: A Pattern Language for Study Groups&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;The Psychology of Computer Programming&lt;/i&gt; book&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;dig-deeper&quot;&gt;dig deeper&lt;/h4&gt;
+&lt;h4 id=&quot;dig-deeper&quot;&gt;Dig deeper&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Steven S. Sukienka - The Algorithm Design Manual&lt;/li&gt;
@@ -342,22 +344,22 @@
   &lt;li&gt;Steve Vinoski - RPC&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;familiar-tools&quot;&gt;familiar tools&lt;/h4&gt;
+&lt;h4 id=&quot;familiar-tools&quot;&gt;Familiar tools&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Eric Hoffer - Reflections on the Human Condition&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;chapter-7-conclusions&quot;&gt;Chapter 7: conclusions&lt;/h1&gt;
+&lt;h1 id=&quot;chapter-7-conclusions&quot;&gt;Chapter 7: Conclusions&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Richard Sennet - ‘Etyka dobrej roboty’ book&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Etyka dobrej roboty&lt;/i&gt; - &lt;strong&gt;Richard Sennet&lt;/strong&gt; book&lt;/li&gt;
   &lt;li&gt;Kruger - Dunning effect&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;It is everything that I have for today.&lt;br /&gt;
 Everyone is a blacksmith of own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Gitea Setup</title><link href="/posts/gitea-setup/" rel="alternate" type="text/html" title="Gitea Setup" /><published>2022-01-02T00:00:08+01:00</published><updated>2022-01-02T00:00:08+01:00</updated><id>/posts/gitea-setup</id><content type="html" xml:base="/posts/gitea-setup/">&lt;p&gt;Hi all,&lt;/p&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Last modified at: August 22 2022</summary></entry><entry><title type="html">Gitea Setup</title><link href="/posts/gitea-setup/" rel="alternate" type="text/html" title="Gitea Setup" /><published>2022-01-02T00:00:08+01:00</published><updated>2022-01-02T00:00:08+01:00</updated><id>/posts/gitea-setup</id><content type="html" xml:base="/posts/gitea-setup/">&lt;p&gt;Hi all,&lt;/p&gt;
 
 &lt;p&gt;When I already have installed and configured the&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PostgreSQL&lt;/code&gt; database I can set up the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gitea&lt;/code&gt; service.&lt;/p&gt;
 

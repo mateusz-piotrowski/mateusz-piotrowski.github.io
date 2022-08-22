@@ -5,6 +5,8 @@ date:   2022-04-24 00:00:01 +0100
 categories: reading-list books
 ---
 
+<p align="right"><i>Last modified at: August 22 2022</i></p>  
+
 Hi all,
 
 Today I want share with you my notes after read the following book:  
@@ -14,7 +16,7 @@ Today I want share with you my notes after read the following book:
 
 - <strong>Kent Back</strong>
 - <i>Tektronix</i> Company
-- <i>Smalltalk-80</i>
+- <i><strong>Smalltalk-80</strong></i>
 - Agile Programming
 - Craftmanship
 
@@ -24,7 +26,7 @@ Today I want share with you my notes after read the following book:
 - Stickyminds.com
 - Software Craftmanship
 - Developer <strong>Chris Morris</strong> blog
-- Pat Metheny guitar
+- <strong>Pat Metheny</strong> guitar
 - <strong>Dave blog</strong> - redsquirrel.com
 - <strong>Laurent Bossavit</strong>
 - <strong>Darragh Farrel</strong>
@@ -47,11 +49,11 @@ Today I want share with you my notes after read the following book:
 
 # Chapter 1: Introduction 
 
-- <strong>Perl</strong> Programming Language
-- <strong>Basic</strong> Programming Language
+- <i><strong>Perl</strong></i> Programming Language
+- <i><strong>Basic</strong></i> Programming Language
 - Apple IIe computer
-- <strong>Java</strong> Applets 
-- Perl. Programming. Book
+- <i><strong>Java</strong></i> Applets 
+- <i>Perl. Programming.</i> book
 - Extreme Programming - XP
 - Agile Development
 - <strong>Bob Martin</strong>
@@ -63,25 +65,25 @@ Today I want share with you my notes after read the following book:
 - <strong>Ruby on Rails</strong> Framework
 - Carol Dweck - Growth Mindset
 - <i>Wewnetrzne poczucie umiejscowienia kontroli</i> book
-- Etienne Wenger - Expert in Earshot pattern (Paul and Elixir language)
-- Software Craftmanship: The New Imperative - Pete McBreen book
-- <i>Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku</i> book
+- <strong>Etienne Wenger</strong> - Expert in Earshot pattern (Paul and Elixir language)
+- <i>Software Craftmanship: The New Imperative</i> - <strong>Pete McBreen</strong> book
+- <i>Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.</i> book
 - <i>Refaktoryzacja. Ulepszanie struktury istniejącego kodu</i> - <strong>Martin Fowler</strong> book
 
 # Chapter 2: Empty the cup
 
 #### Your first language 
 
-- <strong>Ruby</strong> - irb console
-- <strong>Ruby on Rails</strong> Framework - script/console
-- <strong>Erlang</strong> - erb
+- <i><strong>Ruby</strong></i> - irb console
+- <i><strong>Ruby on Rails</strong></i> Framework - script/console
+- <i><strong>Erlang</strong></i> - erb
 - Firefox - Firebug
 - <strong>TDD</strong> - <strong><i>Test Driven Development</i></strong> 
 - <i>Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku</i> - <strong>Ralph Johnson</strong> book 
-- <i>Effective <strong>Perl</strong> Programming</i>book
-- <i>Java. Efektywne programowanie</i> book
-- <i>C++. 50 efektywnych sposobów na udoskonalenie Twoich programów</i> book
-- The shape of your mind - Eric Merritt blog
+- <i>Effective <strong>Perl</strong> Programming </i>book
+- <i><strong>Java</strong>. Efektywne programowanie</i> book
+- <i><strong>C++</strong>. 50 efektywnych sposobów na udoskonalenie Twoich programów</i> book
+- The shape of your mind - <strong>Eric Merritt</strong> blog
 - <i>Pragratyczny programista. Od czeladnika do  mistrza</i> - <strong>Dave Thomas</strong>, <strong>Andy Hunt</strong> book
 - Muench method
 - Schwartz transformation 
@@ -89,22 +91,22 @@ Today I want share with you my notes after read the following book:
 
 #### The White belt
 
-- Mastery: The Keys to Success and Long-Term Fulfillment - George Leonard book
-- Psychology Abraham Maslow
-- Ashleigh Montagu
-- Michael Feathers developer
+- <i>Mastery: The Keys to Success and Long-Term Fulfillment</i> - <strong>George Leonard</strong> book
+- Psychology <strong>Abraham Maslow</strong>
+- <strong>Ashleigh Montagu</strong>
+- <strong>Michael Feathers</strong> developer
 - <i>Praca z zastanym kodem. Najlepsze techniki</i> book
-- <i>Becoming a Technical Leader</i> - <trong>Jerry Weinberg</strong> book
+- <i>Becoming a Technical Leader</i> - <strong>Jerry Weinberg</strong> book
 
 #### Release your enthusiasm
 
 - <i>Mądrość tłumu. Większość ma rację w ekonomii, biznesie i polityce</i> - <strong>James Surowiecki</strong> book
-- Collective Mind in Organizations - Karl Weick and Karlene Roberts book
+- <i>Collective Mind in Organizations</i> - <strong>Karl Weick</strong> and <strong>Karlene Roberts</strong> book
 
 #### Specific skills
 
-- Hibernate 
-- Struts
+- <i><strong>Hibernate</strong></i>
+- <i><strong>Struts</strong></i>
 - TODO: Review jour CV regularly to create list of your strong skills 
 
 #### Admit your ignorance
@@ -129,7 +131,7 @@ Today I want share with you my notes after read the following book:
 
 - http://perlmonks.org
 - com.lang.perl.*
-- Extreme Programming Installed - Ron Jeffries book
+- <i>Extreme Programming Installed</i> - <strong>Ron Jeffries</strong> book
 - <strong>Donald Knuth</strong>
 - <strong>Linus Torvalds</strong>
 - Prawo Moore'a
@@ -167,129 +169,129 @@ Today I want share with you my notes after read the following book:
 
 # Chapter 4: Proper self-esteem
 
-#### be the worst
+#### Be the worst
 
-#### find mentors
+#### Find mentors
 
-#### soul mates
+#### Soul mates
 
-- Extreme Programming Explained: Embrance Change book
-- 'Refaktoryzacja. Ulepszanie struktury istniejącego kodu' book
-- 'Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku' book
-- 'Czynnik ludzki. Skuteczne przedsięwzięcia i wydajne zespoły' book
+- <i>Extreme Programming Explained: Embrance Change</i> book
+- <i>Refaktoryzacja. Ulepszanie struktury istniejącego kodu</i> book
+- <i>Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku</i> book
+- <i>Czynnik ludzki. Skuteczne przedsięwzięcia i wydajne zespoły</i> book
 
-#### friendship
+#### Friendship
 
 - Pair Programming 
 - TDD
 - Ping-Pong Programming
-- 'Etyka dobrej roboty' - Richard Sennet book
+- <i>Etyka dobrej roboty</i> - <strong>Richard Sennet</strong> book
 
-#### remember the floor
+#### Remember the floor
 
 # Chapter 5: Constant learning
 
-- 'Nauka w czasach wojny' - 'Brzemię chwały' - C.S. Lewis book
-- Developer Andy Hunt
+- <i>Nauka w czasach wojny - Brzemię chwały</i> - <strong>C.S. Lewis</strong> book
+- Developer <strong>Andy Hunt</strong>
 
-#### increase your bandwidth
+#### Increase your bandwidth
 
-- Agile Software Development Ecosystem  - Jim Highsmith book
+- <i>Agile Software Development Ecosystem</i> - <strong>Jim Highsmith</strong> book
 - Tim O'Reilly - Watching the "Alpha Geeks" OS X and the Next Big Think
 - GoogleTechTalks
-- Perl Programming Language 
+- <strong>Perl</strong> Programming Language 
 - http://perlmonks.org/
-- Extreme Programming Explained: Embrance Change - Kent Beck book
-- Ruby on Rails Framework 
+- <i>Extreme Programming Explained: Embrance Change</i> - <strong>Kent Beck</strong> book
+- <strong>Ruby on Rails</strong> Framework 
 - Obtiva
 - Obtiva Software Studio
 
 #### Practice Practice Practice
 
-- 'Perełki oprogramowania book
-- 'Więcej perełek oprogramowania' book
-- 'Wyznania programisty' book
-- Etudes for Programmers book
+- <i>Perełki oprogramowania</i> book
+- <i>Więcej perełek oprogramowania</i> book
+- <i>Wyznania programisty</i> book
+- <i>Etudes for Programmers</i> book
 
-#### toys to break
+#### Toys to break
 
 - Shortest Wiki Contest
 - Simple game, blogging tool, IRC client in each new programming language 
 - Wiki system from scratch 
 
-#### use the source
+#### Use the source
 
-- Programmers at work - Bill Gates book
-- Linus Torwalds blog
-- Daniel J. Bernstein blog
+- <i>Programmers at work</i> - <strong>Bill Gates</strong> book
+- <strong>Linus Torwalds</strong> blog
+- <strong>Daniel J. Bernstein</strong> blog
 - Task: review open source version control code, ex. git 
 
-#### be reflective when working
+#### Be reflective when working
 
-- Project Retrospectives: A handbook for Teams Reviews - Norm Kerth book
+- <i>Project Retrospectives: A handbook for Teams Reviews</i> - <strong>Norm Kerth</strong> book
 - Personal Practices Map
 
-#### write down what you are learning
+#### Write down what you are learning
 
-- Lepiej. Zapiski chirurga o efektywności medycyny - Atul Gawande book 
+- <i>Lepiej. Zapiski chirurga o efektywności medycyny</i> - <strong>Atul Gawande</strong> book 
 
-#### share what you learn
+#### Share what you learn
 
-- The Creative Habit: Learn It and Use It for Life - Twyla Tharp book
+- <i>The Creative Habit: Learn It and Use It for Life</i> - <strong>Twyla Tharp</strong> book
 
-#### create loops of feedback
+#### Create loops of feedback
 
 - Dave Winer - What is Stop Energy?
 
-#### learn how you fail
+#### Learn how you fail
 
-#### summary
+#### Summary
 
-- Philip Armour - The Five Orders of Ignorance 
+- <i>The Five Orders of Ignorance</i> - <strong>Philip Armour</strong> book
 
 # Chapter 6: construct your learning program
 
-- 'Zen i sztuka obsługi motocykla - Robert Pirsig book
+- <i>Zen i sztuka obsługi motocykla</i> - <strong>Robert Pirsig</strong> book
 - Jerry Weinberg
 - Fred Brooks
 - Steve McConnell
-- Kent Beck
+- <strong>Kent Beck</strong>
 
-#### reading list
+#### Reading list
 
 - A school Is a Lousy Place to Learn Anything In - Howard S. Becker
 - http://bookshelves.org/
-- 35 chapter from book: 'Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.' book
-- 'Pragratyczny programista. Od czeladnika do mistrza' book
+- 35 chapter from book: <i>Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów</i> book
+- <i>Pragratyczny programista. Od czeladnika do mistrza</i> book
 - Book chain - Ravi Mohan
 - Sequential Study from: Pattern Language for Study Groups - Joshua Kerievsky 
-- 'Refaktoryzacja. Ulepszanie struktury istniejącego kodu'
-- 'Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.'
+- <i>Refaktoryzacja. Ulepszanie struktury istniejącego kodu</i> book
+- <i>Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku.</i>
 - TODO: Create file with reading list, put there currently reading list and update it regularly 
 
-#### constantly read
+#### Constantly read
 
-- 'Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.' - Steve McConnell book
+- <i>Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów.</i> - <strong>Steve McConnell</strong> book
 - Put books over blogs
 
-#### study the classics
+#### Study the classics
 
-- Joshua Kerievsky- Knowledge Hydrant: A Pattern Language for Study Groups 
-- The Psychology of Computer Programming book
+- Joshua Kerievsky - Knowledge Hydrant: A Pattern Language for Study Groups 
+- <i>The Psychology of Computer Programming</i> book
 
-#### dig deeper
+#### Dig deeper
 
 - Steven S. Sukienka - The Algorithm Design Manual
 - Roy Fielding - REST thesis
 - Steve Vinoski - RPC 
 
-#### familiar tools
+#### Familiar tools
 
 - Eric Hoffer - Reflections on the Human Condition
 
-# Chapter 7: conclusions
+# Chapter 7: Conclusions
 
-- Richard Sennet - 'Etyka dobrej roboty' book
+- <i>Etyka dobrej roboty</i> - <strong>Richard Sennet</strong> book
 - Kruger - Dunning effect
 
 It is everything that I have for today.  
