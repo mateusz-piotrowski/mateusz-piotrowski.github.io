@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.23] (Aug 23 2022)
+
+**Updated :**
+
+- The Reading list positions
+
 ## [0.0.22] (Aug 22 2022)
 
 **Added :**

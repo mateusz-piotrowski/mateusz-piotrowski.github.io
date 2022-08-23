@@ -9,10 +9,9 @@ permalink: /reading-list/
 #### Read [completed]
 
 - <a href="/posts/apprenticeship-patterns">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</a>
+- <a href="/posts/pragmatic-programmer">Pragmatic Programmer: From Journeyman to Master</a>
 
 #### Read [in-progress]
-
-- The Pragmatic Programmer: From Journeyman to Master
 
 #### Next to read
 
