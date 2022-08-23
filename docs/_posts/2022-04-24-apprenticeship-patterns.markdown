@@ -5,7 +5,7 @@ date:   2022-04-24 00:00:01 +0100
 categories: reading-list books
 ---
 
-<p align="right"><i>Last modified at: August 22 2022</i></p>  
+<p align="right"><i>Last modified at: August 22 2022</i></p>
 
 Hi all,
 
@@ -84,7 +84,8 @@ Today I want share with you my notes after read the following book:
 - <i><strong>Java</strong>. Efektywne programowanie</i> book
 - <i><strong>C++</strong>. 50 efektywnych sposobów na udoskonalenie Twoich programów</i> book
 - The shape of your mind - <strong>Eric Merritt</strong> blog
-- <i>Pragratyczny programista. Od czeladnika do  mistrza</i> - <strong>Dave Thomas</strong>, <strong>Andy Hunt</strong> book
+- <a href="/posts/pragmatic-programmer"><i>Pragmatic Programmer: From Journeyman to Master</i></a> - <strong>Dave Thomas</strong>, <strong>Andy Hunt</strong> book
+- <i>Pragmatyczny programista. Od czeladnika do mistrza</i> - <strong>Dave Thomas</strong>, <strong>Andy Hunt</strong> book
 - Muench method
 - Schwartz transformation 
 - Duff mechanism

@@ -10,6 +10,7 @@
 **Updated :**
 
 - The Reading list positions
+- 9th post - notes from Apprenticeship Patterns book - update The Pragmatic Programmer url and typo
 
 ## [0.0.22] (Aug 22 2022)
 
