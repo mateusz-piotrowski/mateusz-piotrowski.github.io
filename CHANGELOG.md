@@ -2,6 +2,11 @@
 
 ## [0.0.23] (Aug 23 2022)
 
+**Added :**
+
+- The Applications category at Projects site
+- The orgmodeweb within the Applications site
+
 **Updated :**
 
 - The Reading list positions
