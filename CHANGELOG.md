@@ -5,6 +5,7 @@
 **Updated :**
 
 - 9th post - notes from Apprenticeship Patterns book - last modified date
+- 10th post - notes from The Pragmatic Programmer book - translate advices
 
 **Deleted :**
 
@@ -27,7 +28,7 @@
 **Added :**
 
 - Post last modified date
-- Add 10th post - notes from The Pragmatic Programmer: From Journeyman to Master book
+- 10th post - notes from The Pragmatic Programmer: From Journeyman to Master book
 
 **Updated :**
 

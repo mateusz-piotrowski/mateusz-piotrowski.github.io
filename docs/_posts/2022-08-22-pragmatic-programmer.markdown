@@ -5,7 +5,7 @@ date:   2022-08-22 00:00:01 +0100
 categories: reading-list books
 ---
 
-<p align="right"><i>Last modified at: August 22 2022</i></p>  
+<p align="right"><i>Last modified at: August 24 2022</i></p>  
 
 Hi all,
 
@@ -31,72 +31,71 @@ Today I want share with you my notes after read the following book:
 
 - Who should read this book? 
 - Advice no.1  
-  Należy dbać o swoje rzemiosło.
+  Take care of your craftsmanship.
 - Advice no.2  
-  Należy myśleć o tym co się robi.
+  You should think about what you are doing.
 - ftp.helion.pl 
 - Tools:  
   LaTeX, pic, perl, dvips, ghostview, ispell, gnu make, cvs, Emacs, XEmacs, egcs, gcc, java, icontract, smalleiffel, bash, zsh, linux 
  
 # Chapter 1: 
 
-- 'Najwiekszą słabością jest strach przed strach przed wygladaniem na słabego' - J. B. Bossuet - Politics from Holy Writ.
+- Najwiekszą słabością jest strach przed strach przed wygladaniem na słabego' - J. B. Bossuet - Politics from Holy Writ.
 - Kot zjadł mój kod źródłowy  
 - Advice no. 3  
-  Proponuj rozwiązania, zamiast posługiwać się kiepskimi wymówkami.
+  Offer solutions instead of using lame excuses.
 - Entropia oprogramowania 
 - Entropia 
-- Rozkład oprogramowania (ang. software rot) 
+- Software rot 
 - Advice no. 4  
-  Nie akceptuj żadnej wybitej szyby.
+  Do not accept any broken glass.
 - Zupa z kamieni i gotowane żaby 
 - Advice no. 5  
-  Bądź katalizatorem zmian.
+  Be a catalyst for change.
 - Advice no. 6  
-  Pamiętaj o szerszym kontekście.
+  Remember the broader context.
 - Odpowiednio dobre oprogramowanie 
 - Advice no. 7  
-  Jakość powinna być uwzględniona w wymaganiach.
+  Quality should be included in the requirements.
 - Portfolio wiedzy
 - Advice no. 8  
-  Regularnie inwestuj w swoje portfolio wiedzy.
+  Invest in your knowledge portfolio regularly.
 - Advice no. 9  
-  Patrz krytycznym okiem na to, co czytasz i słyszysz. 
+  Watch with a critical eye what you read and hear.
 - Komunikuj się 
 - Advice no. 10  
-  Ważne jest nie tylko to, co mówimy ale też to, jak to mówimy. 
+  It is not only what we say but how we say it that matters.
 - Bro95, McC95, DL99, Ber96 
  
 # Chapter 2: 
 
-- Przekrenstwo powielania 
+- Przeklenstwo powielania 
 - Advice no. 11  
-  Nie powtarzaj się (ang. Don't Repeat Yourself - DRY).
+  Don't Repeat Yourself.
 - COBRA technology 
 - Advice no. 12  
-  Należy dbać o możliwość wielokrotnego stosowania kodu. 
+  You should take care of the possibility of reusing the code.
 - Ortogonalnosc
 - Advice no. 13  
-  Należy wyeliminować wzajemny wpływ niepowiązanych elementów.
+  The mutual influence of unrelated elements should be eliminated.
 - MVC 
 - RMI 
-- CORBA 
 - AOP - (ang.) Aspect-Oriented Programming 
 - Wzorce projektowe book 
 - Odwracalność 
 - Propos sur la religion book - Emil-Auguste Charter 
 - Advice no. 14  
-  Nie istnieją ostateczne decyzje. 
+  There are no final decisions.
 - Pociski smugowe 
 - Advice no. 15  
-  Należy znajdować cel za pomocą pocisków smugowych.
+  Find your target with tracers.
 - Advice no. 16  
-  Prototypy należy tworzyć z myślą o nauce. 
+  Prototypes should be built with science in mind.
 - TCL/Tk, Visual Basic, PowerBuilder, Delphi 
 - SWIG tool 
 - Języki dziedzinowe 
 - Advice no. 17  
-  Należy programować możliwie blisko dziedziny problemu. 
+  Program as close to the problem area as possible.
 - Backus-Naur Form - BNF 
 - YACC compiler - the bison (free YACC compiler implementation) 
 - Lex and YACC book 
@@ -105,9 +104,9 @@ Today I want share with you my notes after read the following book:
 - Open source screen scraping tool - Expect 
 - Szacowanie 
 - Advice no. 18  
-  Szacowanie pozwala unikać przykrych niespodzianek. 
+  Estimating avoids unpleasant surprises.
 - Advice no. 19  
-  Harmonogram i kod powinny powstawać iteracyjnie. 
+  The schedule and code should be iterative.
 - 'Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.'
  
 # Chapter 3: 
@@ -118,69 +117,69 @@ Today I want share with you my notes after read the following book:
 - Potęga zwykłego tekstu 
 - XML, SGML, HTML 
 - Advice no. 20  
-  Wiedzę należy zapisywać zwykłym tekstem. 
-- Suma kontrolna MD5 
+  Knowledge should be written in plain text.
+- MD5 checksum 
 - diff, fc, sum 
-- Powłoki 
+- Shells
 - WYSIWYG 
 - WYSIAWYG 
 - Advice no. 21  
-  Należy korzystać z potencjału poleceń powłoki. 
+  Use the potential of shell commands.
 - Cygwin 
 - UWIN 
 - Tom Christiansen - Perl Power Tools 
 - Efektywna edycja 
 - Advice no. 22  
-  Należy dobrze opanować jeden edytor. 
+  One editor should be well-mastered.
 - emacs, vi, crisp, brief 
-- Kontrola kodu źródłowego 
+- Source code control
 - George Santayana - Life of Reason book 
-- SCCS 
 - Advice no. 23  
-  Zawsze należy stosować system kontroli kodu źródłowego. 
+  A source code control system should always be used.
 - sccs, rcs, cvs 
 - Advice no. 24  
-  Należy rozwiązywać problemy, nie szukać winowajcy. 
+  You have to solve problems, don't look for the culprit.
 - Advice no. 25  
-  Nie wolno panikować. 
+  Don't panic.
 - DDD Debugger 
 - Perl Programming Language 
 - Greg Purge - developer 
 - Advice no. 26  
   Wywołanie select działa. 
+  The select call works.
 - Advice no. 27  
-  Nie należy niczego zakładać - należy to udowodnić. 
+  You shouldn't assume anything - you should prove it.
 - Python, Tcl, Perl 
 - Inżynieria oprogramowania - Kernighan book 
 - Advice no. 28  
-  Należy opanować jeden język operujący na tekście. 
+  One language that works with the text should be mastered.
 - Advice no. 29  
-  Należy pisać kod, który pisze kod. 
+  You should write code that writes code.
  
 # Chapter 4: 
 
 - Advice no. 30  
-  Pisanie doskonałego oprogramowania jest niemożliwe.
+  Writing great software is impossible.
 - Projektowanie kontraktowe (ang.) design by contract - DBC 
 - Eiffel programming language 
 - Advice no. 31  
-  Należy projektować z uwzględnieniem kontraktów. 
+  Design should be based on contracts.
 - Eiffel programming language 
 - Sather programming language 
 - Nana preprocessor (C and C++) 
 - iContract (Java) 
 - Martwe programy nie kłamią 
 - Advice no. 32  
-  Awarie powinny następować możliwie wcześnie. 
+  Failures should occur as early as possible.
 - Programowanie asertywne 
 - Advice no. 33  
-  Jeśli coś nie może się wydarzyć, należy użyć asercji do zagwarantowania, że rzeczywiście się nie zdarzy. 
+  If something can't happen, use an assertion to ensure it doesn't actually happen.
 - Kiedy używać wyjątków 
 - Advice no. 34  
-  Wyjątki należy stosować dla wyjątkowych problemów. 
+  Exceptions should be used for exceptional problems.
 - Jak zrównoważyć zasoby 
 - Advice no. 35  
-  Należy kończyć to, co się zaczyna. 
+  What begins should be completed.
 - Pufiry software 
 - Insure++ software 
  
@@ -188,53 +187,53 @@ Today I want share with you my notes after read the following book:
 
 - Izolacja i prawo Demeter 
 - Advice no. 36  
-  Należy minimalizować związki pomiędzy modułami. 
+  Relationships between modules should be minimized.
 - C++. Projektowanie systemów informatycznych. Vademecum profesjonalisty - John Lakos book 
 - Metaprogramowanie 
 - Ósme prawo Levy'iego 
 - Advice no. 37  
-  Należy konfigurować, nie integrować. 
+  Should be configured, not integrated.
 - Advice no. 38  
-  W kodzie należy umieszczać abstrakcje; szczegóły należy umieszczać w metadanych. 
+  The code should contain abstractions; details should be included in the metadata.
 - Enterprise Java Beans 
 - Advice no. 39  
-  Warto analizować przepływ pracy, aby na tej podstawie poprawiać współbieżność. 
+  It's a good idea to analyze your workflow to improve concurrency based on that.
 - OLTP - On-Line Transaction Processing 
 - Hungry Consumer 
 - Advice no. 40  
-  Należy projektować przy użyciu usług. 
+  You should design by using services.
 - Programowanie przez koincydencję 
 - Advice no. 41  
-  Zawsze należy projektować z myślą o współbieżności. 
+  Always design with concurrency in mind.
 - To tylko widok 
 - Observer Design Pattern
 - CORBA Event Service 
 - MVC - Model View Controller 
 - Advice no. 42  
-  Należy oddzielać widoki od modeli. 
+  Separate views from models.
 - Tablice 
 - JavaSpaces 
 - T Spaces 
 - Linda programming language 
 - Advice no. 43  
-  Należy koordynować przepływ pracy za pomocą tablic. 
+  You should use arrays to coordinate your workflow.
  
 # Chapter 6: 
 - Programowanie przez koincydencję 
 - Advice no. 44  
-  Nie należy programować przez koincydencję. 
+  Do not program by coincidence.
 - Szybkość algorytmu 
 - Notacja wielkiego O. 
 - Advice no. 45  
-  Należy szacować rzędy wielkości algorytmów. 
+  You should estimate the orders of magnitude of the algorithms.
 - Advice no. 46  
-  Należy testować swoje szacunki. 
+  Be sure to test your estimates.
 - Robert Sedgewich book series 
 - Sztuka programowania - Donald Knuth book 
 - www.pragmaticprogrammer.com - sort functions examples 
 - Refaktoryzacja 
 - Advice no. 47  
-  Refaktoryzację należy przeprowadzać możliwie wcześnie i jak najczęściej. 
+  Refactoring should be done as early and as often as possible.
 - Refaktoryzacja. Ulepszanie infrastruktury istniejącego kodu book. 
 - Testy regresji 
 - Kod łatwy do testowania 
@@ -245,68 +244,69 @@ Today I want share with you my notes after read the following book:
 - Unit Test 
 - Regression Test
 - Advice no. 48  
-  Należy projektować z myślą o testach. 
+  Design with testing in mind.
 - Perl Programming Language 
 - Refections in Java Programming Language 
 - xUnit - Kent Beck and Erich Gammy tool 
 - JUnit tool 
 - Web Server Survey (news.netcraft.com/archives) 
 - Advice no. 49  
-  Należy testować swoje oprogramowania; w przeciwnym razie zrobią to nasi użytkownicy. 
+  Test your software; otherwise our users will.
 - Złe kreatory 
 - IBM 3270 Terminal 
 - OLE
 - MDI 
 - SDI 
 - Advice no. 50  
-  Nie należy używać kreatorów do tworzenia kodu, którego nie rozumiemy. 
+  Don't use wizards to build code that you don't understand.
  
-# Chapter 7: 
+# Chapter 7:
+
 - Kopalnia wymagań
 - Ziemia, planeta ludzi - Antoine de St. Exupéry book 
 - Advice no. 51  
-  Nie należy zbierać wymagań - należy je wydobywać z ukrycia. 
+  Requirements should not be collected - they should be retrieved from hiding.
 - Advice no. 52  
-  Aby myśleć jak użytkownik, należy z nim popracować. 
+  To think like a user, you need to work with them.
 - Przypadki użycia - Use cases 
 - Alistair Cockburn 
 - Advice no. 53  
-  Abstrakcje żyją dłużej niż szczegóły. 
+  Abstractions live longer than details.
 - Advice no. 54  
-  Należy stosować glosariusz projektu. 
+  The project glossary should be used.
 - Rozwiązywanie niemożliwych do rozwiązania łamigłówek 
 - Advice no. 55  
-  Nie należy wykraczać myślami poza schemat - należy raczej znaleźć ten schemat. 
+  You should not go beyond the pattern in your thoughts - rather, find this pattern.
 - Nie, dopóki nie jesteś gotowy 
 - Advice no. 56  
-  Należy słuchać uporczywych wątpliwości - nie wolno zaczynać pracy dopóki nie jest się gotowym. 
+  Listen to persistent doubts - don't start work until you are ready.
 - Pułapka specyfikacji 
 - Advice no. 57  
-  Niektóre rzeczy lepiej robić, niż o nich mówić. 
+  Some things are better to do than talk about.
 - Okręgi i strzałki
 - Advice no. 58  
-  Nie możemy być niewolnikami formalnych metod. 
+  We cannot be slaves to formal methods.
 - Robert Glass 
 - Advice no. 59  
-  Drogie narzędzia nie generują lepszych projektów. 
+  Expensive tools don't generate better designs.
  
 # Chapter 8 
 
 - Pragmatyczne zespoły 
 - The Rational Unified Process: An Introduction book 
 - Advice no. 60  
-  Pracę należy organizować wokół implementowanych funkcji, nie zajmowanych stanowisk. 
+  Work should be organized around the functions being implemented, not the positions held.
 - Wszechobecna automatyzacja 
 - Advice no. 61  
-  Nie należy stosować ręcznych procedur. 
+  Manual procedures should not be used.
 - CACM magazine 
 - Robert Glass article in CACM article 
 - cron tool 
 - Bezlitosne testy 
 - Advice no. 62  
-  Należy testować wcześnie. Należy testować często. Należy testować automatycznie. 
+  You should test early. Should be tested frequently. Should be tested automatically.
 - Advice no. 63  
-  Kodowanie nie jest skończone, dopóki nie zostaną wykonane wszystkie testy. 
+  The coding is not complete until all the tests are done.
 - Testy:
   - Jednostkowe 
   - Integracyjne 
@@ -324,24 +324,24 @@ Today I want share with you my notes after read the following book:
   - Paleta kolorów
   - Rozdzielczość ekranu 
 - Advice no. 64  
-  Do testowania testów należy stosować techniki sabotażu. 
+  Use sabotage techniques to test the tests.
 - Test tests by making a break in code. 
 - Tools to analyze how much source code is covered by tests. 
 - Advice no. 65  
-  Należy testować pokrycie stanów, nie pokrycie kodu. 
+  You should test state coverage, not code coverage.
 - Aegis - source code version control system 
 - 'make test' command 
 - Advice no. 66  
-  Każdy błąd należy znajdować tylko raz. 
+  You only need to find each bug once.
 - Test source code automatically without GUI 
 - Pisanie przede wszystkim 
 - Donald Knuth - connect documentation with source code 
 - JavaDoc - Sun company tool 
 - Advice no. 67  
-  Język polski należy traktować jako jeszcze jeden język programowania. 
+  Polish should be treated as one more programming language.
 - user's Guidep 
 - Advice no. 68  
-  Dokumentacja jest częścią produktu, nie dodatkiem. 
+  The documentation is part of the product, not an accessory.
 - Put in code comments why something has been done - not how. 
 - When you put in code how you implemented it you violate DRY rule. 
 - Variables names should be intuitive. 
@@ -364,7 +364,7 @@ Today I want share with you my notes after read the following book:
 - Wielkie oczekiwania 
 - Jeremiasz 2:12 
 - Advice no. 69  
-  Należy nieznacznie przekraczać oczekiwania użytkowników. 
+  Users' expectations should be slightly exceeded.
 - During adding a little function to the application we could do:
   - Pomoc w postaci chmurek lub podręcznych podpowiedzi 
   - Skróty klawiszowe 
@@ -378,11 +378,12 @@ Today I want share with you my notes after read the following book:
 - Duma i uprzedzenie 
 - "Zachwycałeś nas dostatecznie długo" - "Duma i uprzedzenie" - Jane Austen book 
 - Advice no. 70  
-  Podpisuj efekty swojej pracy. 
+  Sign the results of your work.
 - Kent Beck 
 - XP (ang. eXtreme Programming) methodology
  
 # Appendix A: 
+
 - Pragmatic Developer still learning 
 - IEEE organization - www.acm.org 
 - ACM organization - www.computer.org 
@@ -519,6 +520,7 @@ Today I want share with you my notes after read the following book:
   - Web Server Survey - www.news.netcraft.com/archives/2011/05/02/may-2011-web-server-survey.html 
  
 # Bibliografia: 
+
 - Chief programmer team management of production programming - F. T. Baker 
 - A validation of object-oriented design metrics as quality indicators - V. Basili, L. Briand, W. L. Melon 
 - Trudni współpracownicy - Albert J. Bernstein 
