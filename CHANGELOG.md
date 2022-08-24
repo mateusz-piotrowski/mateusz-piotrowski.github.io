@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.24] (Aug 24 2022)
+
+**Updated :**
+
+- 9th post - notes from Apprenticeship Patterns book - last modified date
+
+**Deleted :**
+
+- 9th post - notes from Apprenticeship Patterns book - delete duplicate line
+
 ## [0.0.23] (Aug 23 2022)
 
 **Added :**
