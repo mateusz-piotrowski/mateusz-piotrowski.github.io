@@ -1,6 +1,22 @@
 # The Changelog
 
+## [0.0.26] (Aug 28 2022)
+
+**Updated :**
+
+- the italic advices
+
+## [0.0.25] (Aug 26 2022)
+
+**Updated :**
+
+- the italic advices
+
 ## [0.0.24] (Aug 24 2022)
+
+**Added :**
+
+- The sqlteaching within the Applications site
 
 **Updated :**
 
