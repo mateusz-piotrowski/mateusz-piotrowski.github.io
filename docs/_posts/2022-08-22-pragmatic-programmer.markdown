@@ -57,43 +57,41 @@ Today I want share with you my notes after read the following book:
  
 # Chapter 1: 
 
-- Najwiekszą słabością jest strach przed strach przed wygladaniem na słabego' - J. B. Bossuet - Politics from Holy Writ.
+- Najwiekszą słabością jest strach przed strach przed wygladaniem na słabego - J. B. Bossuet - Politics from Holy Writ
 - Kot zjadł mój kod źródłowy  
-- Advice no. 3  
+- <strong><i>Advice no. 3</i></strong>  
   <i>Offer solutions instead of using lame excuses.</i>
 - Entropia oprogramowania 
-- Entropia 
 - Software rot 
-- Advice no. 4  
+- <strong><i>Advice no. 4</i></strong>  
   <i>Do not accept any broken glass.</i>
 - Zupa z kamieni i gotowane żaby 
-- Advice no. 5  
+- <strong><i>Advice no. 5</i></strong>  
   <i>Be a catalyst for change.</i>
-- Advice no. 6  
+- <strong><i>Advice no. 6</i></strong>  
   <i>Remember the broader context.</i>
 - Odpowiednio dobre oprogramowanie 
-- Advice no. 7  
+- <strong><i>Advice no. 7</i></strong>  
   <i>Quality should be included in the requirements.</i>
 - Portfolio wiedzy
-- Advice no. 8  
+- <strong><i>Advice no. 8</i></strong>  
   <i>Invest in your knowledge portfolio regularly.</i>
-- Advice no. 9  
+- <strong><i>Advice no. 9</i></strong>  
   <i>Watch with a critical eye what you read and hear.</i>
 - Komunikuj się 
-- Advice no. 10  
+- <strong><i>Advice no. 10</i></strong>  
   <i>It is not only what we say but how we say it that matters.</i>
-- Bro95, McC95, DL99, Ber96 
  
 # Chapter 2: 
 
 - Przeklenstwo powielania 
-- Advice no. 11  
+- <strong><i>Advice no. 11</i></strong>  
   <i>Don't Repeat Yourself.</i>
 - COBRA technology 
-- Advice no. 12  
+- <strong><i>Advice no. 12</i></strong>  
   <i>You should take care of the possibility of reusing the code.</i>
 - Ortogonalnosc
-- Advice no. 13  
+- <strong><i>Advice no. 13</i></strong>  
   <i>The mutual influence of unrelated elements should be eliminated.</i>
 - MVC 
 - RMI 
@@ -101,17 +99,17 @@ Today I want share with you my notes after read the following book:
 - Wzorce projektowe book 
 - Odwracalność 
 - Propos sur la religion book - Emil-Auguste Charter 
-- Advice no. 14  
+- <strong><i>Advice no. 14</i></strong>  
   <i>There are no final decisions.</i>
 - Pociski smugowe 
-- Advice no. 15  
+- <strong><i>Advice no. 15</i></strong>  
   <i>Find your target with tracers.</i>
-- Advice no. 16  
+- <strong><i>Advice no. 16</i></strong>  
   <i>Prototypes should be built with science in mind.</i>
 - TCL/Tk, Visual Basic, PowerBuilder, Delphi 
 - SWIG tool 
 - Języki dziedzinowe 
-- Advice no. 17  
+- <strong><i>Advice no. 17</i></strong>  
   <i>Program as close to the problem area as possible.</i>
 - Backus-Naur Form - BNF 
 - YACC compiler - the bison (free YACC compiler implementation) 
@@ -120,11 +118,11 @@ Today I want share with you my notes after read the following book:
 - Screen Scraping 
 - Open source screen scraping tool - Expect 
 - Szacowanie 
-- Advice no. 18  
+- <strong><i>Advice no. 18</i></strong>  
   <i>Estimating avoids unpleasant surprises.</i>
-- Advice no. 19  
+- <strong><i>Advice no. 19</i></strong>  
   <i>The schedule and code should be iterative.</i>
-- 'Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.'
+- Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.'
 
 # Chapter 3: 
 
@@ -133,68 +131,68 @@ Today I want share with you my notes after read the following book:
 - awk, perl, python 
 - Potęga zwykłego tekstu 
 - XML, SGML, HTML 
-- Advice no. 20  
+- <strong><i>Advice no. 20</i></strong>  
   <i>Knowledge should be written in plain text.</i>
 - MD5 checksum 
 - diff, fc, sum 
 - Shells
 - WYSIWYG 
 - WYSIAWYG 
-- Advice no. 21  
+- <strong><i>Advice no. 21</i></strong>  
   <i>Use the potential of shell commands.</i>
 - Cygwin 
 - UWIN 
 - Tom Christiansen - Perl Power Tools 
 - Efektywna edycja 
-- Advice no. 22  
+- <strong><i>Advice no. 22</i></strong>  
   <i>One editor should be well-mastered.</i>
 - emacs, vi, crisp, brief 
 - Source code control
 - George Santayana - Life of Reason book 
-- Advice no. 23  
+- <strong><i>Advice no. 23</i></strong>  
   <i>A source code control system should always be used.</i>
 - sccs, rcs, cvs 
-- Advice no. 24  
+- <strong><i>Advice no. 24</i></strong>  
   <i>You have to solve problems, don't look for the culprit.</i>
-- Advice no. 25  
+- <strong><i>Advice no. 25</i></strong>  
   <i>Don't panic.</i>
 - DDD Debugger 
 - Perl Programming Language 
 - Greg Purge - developer 
-- Advice no. 26  
+- <strong><i>Advice no. 26</i></strong>  
   <i>The select call works.</i>
-- Advice no. 27  
+- <strong><i>Advice no. 27</i></strong>  
   <i>You shouldn't assume anything - you should prove it.</i>
 - Python, Tcl, Perl 
 - Inżynieria oprogramowania - Kernighan book 
-- Advice no. 28  
+- <strong><i>Advice no. 28</i></strong>  
   <i>One language that works with the text should be mastered.</i>
-- Advice no. 29  
+- <strong><i>Advice no. 29</i></strong>  
   <i>You should write code that writes code.</i>
  
 # Chapter 4: 
 
-- Advice no. 30  
+- <strong><i>Advice no. 30</i></strong>  
   <i>Writing great software is impossible.</i>
 - Projektowanie kontraktowe (ang.) design by contract - DBC 
 - Eiffel programming language 
-- Advice no. 31  
+- <strong><i>Advice no. 31</i></strong>  
   <i>Design should be based on contracts.</i>
 - Eiffel programming language 
 - Sather programming language 
 - Nana preprocessor (C and C++) 
 - iContract (Java) 
 - Martwe programy nie kłamią 
-- Advice no. 32  
+- <strong><i>Advice no. 32</i></strong>  
   <i>Failures should occur as early as possible.</i>
 - Programowanie asertywne 
-- Advice no. 33  
+- <strong><i>Advice no. 33</i></strong>  
   <i>If something can't happen, use an assertion to ensure it doesn't actually happen.</i>
 - Kiedy używać wyjątków 
-- Advice no. 34  
+- <strong><i>Advice no. 34</i></strong>  
   <i>Exceptions should be used for exceptional problems.</i>
 - Jak zrównoważyć zasoby 
-- Advice no. 35  
+- <strong><i>Advice no. 35</i></strong>  
   <i>What begins should be completed.</i>
 - Pufiry software 
 - Insure++ software 
@@ -202,54 +200,54 @@ Today I want share with you my notes after read the following book:
 # Chapter 5:
 
 - Izolacja i prawo Demeter 
-- Advice no. 36  
+- <strong><i>Advice no. 36</i></strong>  
   <i>Relationships between modules should be minimized.</i>
 - C++. Projektowanie systemów informatycznych. Vademecum profesjonalisty - John Lakos book 
 - Metaprogramowanie 
 - Ósme prawo Levy'iego 
-- Advice no. 37  
+- <strong><i>Advice no. 37</i></strong>  
   <i>Should be configured, not integrated.</i>
-- Advice no. 38  
+- <strong><i>Advice no. 38</i></strong>  
   <i>The code should contain abstractions; details should be included in the metadata.</i>
 - Enterprise Java Beans 
-- Advice no. 39  
+- <strong><i>Advice no. 39</i></strong>  
   <i>It's a good idea to analyze your workflow to improve concurrency based on that.</i>
 - OLTP - On-Line Transaction Processing 
 - Hungry Consumer 
-- Advice no. 40  
+- <strong><i>Advice no. 40</i></strong>  
   <i>You should design by using services.</i>
 - Programowanie przez koincydencję 
-- Advice no. 41  
+- <strong><i>Advice no. 41</i></strong>  
   <i>Always design with concurrency in mind.</i>
 - To tylko widok 
 - Observer Design Pattern
 - CORBA Event Service 
 - MVC - Model View Controller 
-- Advice no. 42  
+- <strong><i>Advice no. 42</i></strong>  
   <i>Separate views from models.</i>
 - Tablice 
 - JavaSpaces 
 - T Spaces 
 - Linda programming language 
-- Advice no. 43  
+- <strong><i>Advice no. 43</i></strong>  
   <i>You should use arrays to coordinate your workflow.</i>
  
 # Chapter 6: 
 
 - Programowanie przez koincydencję 
-- Advice no. 44  
+- <strong><i>Advice no. 44</i></strong>  
   <i>Do not program by coincidence.</i>
 - Szybkość algorytmu 
 - Notacja wielkiego O. 
-- Advice no. 45  
+- <strong><i>Advice no. 45</i></strong>  
   <i>You should estimate the orders of magnitude of the algorithms.</i>
-- Advice no. 46  
+- <strong><i>Advice no. 46</i></strong>  
   <i>Be sure to test your estimates.</i>
 - Robert Sedgewich book series 
 - Sztuka programowania - Donald Knuth book 
 - www.pragmaticprogrammer.com - sort functions examples 
 - Refaktoryzacja 
-- Advice no. 47  
+- <strong><i>Advice no. 47</i></strong>  
   <i>Refactoring should be done as early and as often as possible.</i>
 - Refaktoryzacja. Ulepszanie infrastruktury istniejącego kodu book
 - Testy regresji 
@@ -260,69 +258,69 @@ Today I want share with you my notes after read the following book:
 - TAM - Test Access Mechanism 
 - Unit Test 
 - Regression Test
-- Advice no. 48  
+- <strong><i>Advice no. 48</i></strong>  
   <i>Design with testing in mind.</i>
 - Perl Programming Language 
 - Refections in Java Programming Language 
 - xUnit - Kent Beck and Erich Gammy tool 
 - JUnit tool 
 - Web Server Survey (news.netcraft.com/archives) 
-- Advice no. 49  
+- <strong><i>Advice no. 49</i></strong>  
   <i>Test your software; otherwise our users will.</i>
 - Złe kreatory 
 - IBM 3270 Terminal 
 - OLE
 - MDI 
 - SDI 
-- Advice no. 50  
+- <strong><i>Advice no. 50</i></strong>  
   <i>Don't use wizards to build code that you don't understand.</i>
  
 # Chapter 7:
 
 - Kopalnia wymagań
 - Ziemia, planeta ludzi - Antoine de St. Exupéry book 
-- Advice no. 51  
+- <strong><i>Advice no. 51</i></strong>  
   <i>Requirements should not be collected - they should be retrieved from hiding.</i>
-- Advice no. 52  
+- <strong><i>Advice no. 52</i></strong>  
   <i>To think like a user, you need to work with them.</i>
 - Przypadki użycia - Use cases 
 - Alistair Cockburn 
-- Advice no. 53  
+- <strong><i>Advice no. 53</i></strong>  
   <i>Abstractions live longer than details.</i>
-- Advice no. 54  
+- <strong><i>Advice no. 54</i></strong>  
   <i>The project glossary should be used.</i>
 - Rozwiązywanie niemożliwych do rozwiązania łamigłówek 
-- Advice no. 55  
+- <strong><i>Advice no. 55</i></strong>  
   <i>You should not go beyond the pattern in your thoughts - rather, find this pattern.</i>
 - Nie, dopóki nie jesteś gotowy 
-- Advice no. 56  
+- <strong><i>Advice no. 56</i></strong>  
   <i>Listen to persistent doubts - don't start work until you are ready.</i>
 - Pułapka specyfikacji 
-- Advice no. 57  
+- <strong><i>Advice no. 57</i></strong>  
   <i>Some things are better to do than talk about.</i>
 - Okręgi i strzałki
-- Advice no. 58  
+- <strong><i>Advice no. 58</i></strong>  
   <i>We cannot be slaves to formal methods.</i>
 - Robert Glass 
-- Advice no. 59  
+- <strong><i>Advice no. 59</i></strong>  
   <i>Expensive tools don't generate better designs.</i>
  
 # Chapter 8 
 
 - Pragmatyczne zespoły 
 - The Rational Unified Process: An Introduction book 
-- Advice no. 60  
+- <strong><i>Advice no. 60</i></strong>  
   <i>Work should be organized around the functions being implemented, not the positions held.</i>
 - Wszechobecna automatyzacja 
-- Advice no. 61  
+- <strong><i>Advice no. 61</i></strong>  
   <i>Manual procedures should not be used.</i>
 - CACM magazine 
 - Robert Glass article in CACM article 
 - cron tool 
 - Bezlitosne testy 
-- Advice no. 62  
+- <strong><i>Advice no. 62</i></strong>  
   <i>You should test early. Should be tested frequently. Should be tested automatically.</i>
-- Advice no. 63  
+- <strong><i>Advice no. 63</i></strong>  
   <i>The coding is not complete until all the tests are done.</i>
 - Testy:
   - Jednostkowe 
@@ -340,24 +338,24 @@ Today I want share with you my notes after read the following book:
   - Przepustowość sieci 
   - Paleta kolorów
   - Rozdzielczość ekranu 
-- Advice no. 64  
+- <strong><i>Advice no. 64</i></strong>  
   <i>Use sabotage techniques to test the tests.</i>
 - Test tests by making a break in code. 
 - Tools to analyze how much source code is covered by tests. 
-- Advice no. 65  
+- <strong><i>Advice no. 65</i></strong>  
   <i>You should test state coverage, not code coverage.</i>
 - Aegis - source code version control system 
 - 'make test' command 
-- Advice no. 66  
+- <strong><i>Advice no. 66</i></strong>  
   <i>You only need to find each bug once.</i>
 - Test source code automatically without GUI 
 - Pisanie przede wszystkim 
 - Donald Knuth - connect documentation with source code 
 - JavaDoc - Sun company tool 
-- Advice no. 67  
+- <strong><i>Advice no. 67</i></strong>  
   <i>Polish should be treated as one more programming language.</i>
 - user's Guidep 
-- Advice no. 68  
+- <strong><i>Advice no. 68</i></strong>  
   <i>The documentation is part of the product, not an accessory.</i>
 - Put in code comments why something has been done - not how. 
 - When you put in code how you implemented it you violate DRY rule. 
@@ -380,7 +378,7 @@ Today I want share with you my notes after read the following book:
 - HTML file 
 - Wielkie oczekiwania 
 - Jeremiasz 2:12 
-- Advice no. 69  
+- <strong><i>Advice no. 69</i></strong>  
   <i>Users' expectations should be slightly exceeded.</i>
 - During adding a little function to the application we could do:
   - Pomoc w postaci chmurek lub podręcznych podpowiedzi 
@@ -394,7 +392,7 @@ Today I want share with you my notes after read the following book:
   - Ekran powitalny z grafiką wskazaną przez organizację 
 - Duma i uprzedzenie 
 - "Zachwycałeś nas dostatecznie długo" - "Duma i uprzedzenie" - Jane Austen book 
-- Advice no. 70  
+- <strong><i>Advice no. 70</i></strong>  
   <i>Sign the results of your work.</i>
 - Kent Beck 
 - XP (ang. eXtreme Programming) methodology

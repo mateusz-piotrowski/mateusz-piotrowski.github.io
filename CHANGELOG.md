@@ -6,6 +6,7 @@
 
 - the italic advices
 - Preface section
+- bold and italic advices headers
 
 ## [0.0.25] (Aug 26 2022)
 
