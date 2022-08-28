@@ -5,6 +5,7 @@
 **Updated :**
 
 - the italic advices
+- Preface section
 
 ## [0.0.25] (Aug 26 2022)
 

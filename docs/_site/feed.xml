@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-08-28T00:08:25+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 24 2022&lt;/i&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-08-28T08:20:05+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 24 2022&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -28,13 +28,33 @@
 
 &lt;ul&gt;
   &lt;li&gt;Who should read this book?&lt;/li&gt;
-  &lt;li&gt;Advice no.1&lt;br /&gt;
+  &lt;li&gt;Advice no. 1&lt;br /&gt;
 &lt;i&gt;Take care of your craftsmanship.&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;Advice no.2&lt;br /&gt;
+  &lt;li&gt;Advice no. 2&lt;br /&gt;
 &lt;i&gt;You should think about what you are doing.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;ftp.helion.pl&lt;/li&gt;
-  &lt;li&gt;Tools:&lt;br /&gt;
-LaTeX, pic, perl, dvips, ghostview, ispell, gnu make, cvs, Emacs, XEmacs, egcs, gcc, java, icontract, smalleiffel, bash, zsh, linux&lt;/li&gt;
+  &lt;li&gt;Tools:
+    &lt;ul&gt;
+      &lt;li&gt;LaTeX&lt;/li&gt;
+      &lt;li&gt;pic&lt;/li&gt;
+      &lt;li&gt;Perl programming language&lt;/li&gt;
+      &lt;li&gt;dvips&lt;/li&gt;
+      &lt;li&gt;ghostview&lt;/li&gt;
+      &lt;li&gt;ispell&lt;/li&gt;
+      &lt;li&gt;GNU make&lt;/li&gt;
+      &lt;li&gt;CVS&lt;/li&gt;
+      &lt;li&gt;Emacs&lt;/li&gt;
+      &lt;li&gt;XEmacs&lt;/li&gt;
+      &lt;li&gt;egcs&lt;/li&gt;
+      &lt;li&gt;GCC Compiler&lt;/li&gt;
+      &lt;li&gt;Java programming language&lt;/li&gt;
+      &lt;li&gt;icontract&lt;/li&gt;
+      &lt;li&gt;SmallEiffel&lt;/li&gt;
+      &lt;li&gt;Bash shell&lt;/li&gt;
+      &lt;li&gt;Zsh shell&lt;/li&gt;
+      &lt;li&gt;Linux&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;chapter-1&quot;&gt;Chapter 1:&lt;/h1&gt;

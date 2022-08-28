@@ -30,13 +30,30 @@ Today I want share with you my notes after read the following book:
 # Preface: 
 
 - Who should read this book? 
-- Advice no.1  
+- Advice no. 1  
   <i>Take care of your craftsmanship.</i>
-- Advice no.2  
+- Advice no. 2  
   <i>You should think about what you are doing.</i>
 - ftp.helion.pl 
 - Tools:  
-  LaTeX, pic, perl, dvips, ghostview, ispell, gnu make, cvs, Emacs, XEmacs, egcs, gcc, java, icontract, smalleiffel, bash, zsh, linux 
+  - LaTeX
+  - pic
+  - Perl programming language
+  - dvips
+  - ghostview
+  - ispell
+  - GNU make
+  - CVS
+  - Emacs
+  - XEmacs
+  - egcs
+  - GCC Compiler
+  - Java programming language
+  - icontract
+  - SmallEiffel
+  - Bash shell
+  - Zsh shell
+  - Linux
  
 # Chapter 1: 
 
