@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.27] (Aug 29 2022)
+
+**Updated :**
+
+- Preface section
+
 ## [0.0.26] (Aug 28 2022)
 
 **Updated :**

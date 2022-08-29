@@ -5,7 +5,7 @@ date:   2022-08-22 00:00:01 +0100
 categories: reading-list books
 ---
 
-<p align="right"><i>Last modified at: August 24 2022</i></p>  
+<p align="right"><i>Last modified at: August 29 2022</i></p>  
 
 Hi all,
 
@@ -30,18 +30,17 @@ Today I want share with you my notes after read the following book:
 # Preface: 
 
 - Who should read this book? 
-- Advice no. 1  
+- <strong><i>Advice no. 1</i></strong>  
   <i>Take care of your craftsmanship.</i>
-- Advice no. 2  
+- <strong><i>Advice no. 2</i></strong>  
   <i>You should think about what you are doing.</i>
-- ftp.helion.pl 
 - Tools:  
   - LaTeX
-  - pic
+  - Pic
   - Perl programming language
-  - dvips
-  - ghostview
-  - ispell
+  - Dvips
+  - Ghostview
+  - Ispell
   - GNU make
   - CVS
   - Emacs
@@ -49,7 +48,7 @@ Today I want share with you my notes after read the following book:
   - egcs
   - GCC Compiler
   - Java programming language
-  - icontract
+  - iContract
   - SmallEiffel
   - Bash shell
   - Zsh shell
