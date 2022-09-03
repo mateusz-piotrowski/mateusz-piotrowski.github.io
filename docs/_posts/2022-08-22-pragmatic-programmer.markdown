@@ -5,7 +5,7 @@ date:   2022-08-22 00:00:01 +0100
 categories: reading-list books
 ---
 
-<p align="right"><i>Last modified at: August 29 2022</i></p>  
+<p align="right"><i>Last modified at: September 04 2022</i></p>  
 
 Hi all,
 
@@ -83,21 +83,21 @@ Today I want share with you my notes after read the following book:
  
 # Chapter 2: 
 
-- Przeklenstwo powielania 
+- Przekleństwo powielania 
 - <strong><i>Advice no. 11</i></strong>  
   <i>Don't Repeat Yourself.</i>
 - COBRA technology 
 - <strong><i>Advice no. 12</i></strong>  
   <i>You should take care of the possibility of reusing the code.</i>
-- Ortogonalnosc
-- <strong><i>Advice no. 13</i></strong>  
+- Ortogonalność
+- <Strong><i>Advice no. 13</i></strong>  
   <i>The mutual influence of unrelated elements should be eliminated.</i>
-- MVC 
-- RMI 
-- AOP - (ang.) Aspect-Oriented Programming 
-- Wzorce projektowe book 
+- MVC (Model - View - Controller)
+- RMI (Remote Method Invocation)
+- AOP (Aspect-Oriented Programming)
+- <i>Design Patterns</i> book 
 - Odwracalność 
-- Propos sur la religion book - Emil-Auguste Charter 
+- <i>Propos sur la religion</i> book - Emil-Auguste Charter 
 - <strong><i>Advice no. 14</i></strong>  
   <i>There are no final decisions.</i>
 - Pociski smugowe 
@@ -105,23 +105,27 @@ Today I want share with you my notes after read the following book:
   <i>Find your target with tracers.</i>
 - <strong><i>Advice no. 16</i></strong>  
   <i>Prototypes should be built with science in mind.</i>
-- TCL/Tk, Visual Basic, PowerBuilder, Delphi 
-- SWIG tool 
+- Programming Languages and Tools:
+  - TCL/Tk
+  - Visual Basic Programming Language
+  - PowerBuilder
+  - Delphi Programming Language
+  - SWIG 
+  - YACC compiler - the bison (free YACC compiler implementation) 
+  - JavaCC Compiler 
+  - Screen Scraping 
+  - Expect.JS - open source minimalistic assertions tool
 - Języki dziedzinowe 
 - <strong><i>Advice no. 17</i></strong>  
   <i>Program as close to the problem area as possible.</i>
 - Backus-Naur Form - BNF 
-- YACC compiler - the bison (free YACC compiler implementation) 
-- Lex and YACC book 
-- JavaCC compiler 
-- Screen Scraping 
-- Open source screen scraping tool - Expect 
+- <i>Lex and YACC</i> book 
 - Szacowanie 
 - <strong><i>Advice no. 18</i></strong>  
   <i>Estimating avoids unpleasant surprises.</i>
 - <strong><i>Advice no. 19</i></strong>  
   <i>The schedule and code should be iterative.</i>
-- Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.'
+- Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.
 
 # Chapter 3: 
 

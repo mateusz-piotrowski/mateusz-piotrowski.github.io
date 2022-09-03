@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-08-29T23:46:13+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 29 2022&lt;/i&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-04T00:57:01+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 29 2022&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -88,21 +88,21 @@
 &lt;h1 id=&quot;chapter-2&quot;&gt;Chapter 2:&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Przeklenstwo powielania&lt;/li&gt;
+  &lt;li&gt;Przekleństwo powielania&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 11&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;Don’t Repeat Yourself.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;COBRA technology&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 12&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;You should take care of the possibility of reusing the code.&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;Ortogonalnosc&lt;/li&gt;
+  &lt;li&gt;Ortogonalność&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 13&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;The mutual influence of unrelated elements should be eliminated.&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;MVC&lt;/li&gt;
-  &lt;li&gt;RMI&lt;/li&gt;
-  &lt;li&gt;AOP - (ang.) Aspect-Oriented Programming&lt;/li&gt;
-  &lt;li&gt;Wzorce projektowe book&lt;/li&gt;
+  &lt;li&gt;MVC (Model - View - Controller)&lt;/li&gt;
+  &lt;li&gt;RMI (Remote Method Invocation)&lt;/li&gt;
+  &lt;li&gt;AOP (Aspect-Oriented Programming)&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Design Patterns&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;Odwracalność&lt;/li&gt;
-  &lt;li&gt;Propos sur la religion book - Emil-Auguste Charter&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Propos sur la religion&lt;/i&gt; book - Emil-Auguste Charter&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 14&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;There are no final decisions.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;Pociski smugowe&lt;/li&gt;
@@ -110,23 +110,30 @@
 &lt;i&gt;Find your target with tracers.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 16&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;Prototypes should be built with science in mind.&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;TCL/Tk, Visual Basic, PowerBuilder, Delphi&lt;/li&gt;
-  &lt;li&gt;SWIG tool&lt;/li&gt;
+  &lt;li&gt;Programming Languages and Tools:
+    &lt;ul&gt;
+      &lt;li&gt;TCL/Tk&lt;/li&gt;
+      &lt;li&gt;Visual Basic Programming Language&lt;/li&gt;
+      &lt;li&gt;PowerBuilder&lt;/li&gt;
+      &lt;li&gt;Delphi Programming Language&lt;/li&gt;
+      &lt;li&gt;SWIG&lt;/li&gt;
+      &lt;li&gt;YACC compiler - the bison (free YACC compiler implementation)&lt;/li&gt;
+      &lt;li&gt;JavaCC Compiler&lt;/li&gt;
+      &lt;li&gt;Screen Scraping&lt;/li&gt;
+      &lt;li&gt;Expect.JS - open source minimalistic assertions tool&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Języki dziedzinowe&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 17&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;Program as close to the problem area as possible.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;Backus-Naur Form - BNF&lt;/li&gt;
-  &lt;li&gt;YACC compiler - the bison (free YACC compiler implementation)&lt;/li&gt;
-  &lt;li&gt;Lex and YACC book&lt;/li&gt;
-  &lt;li&gt;JavaCC compiler&lt;/li&gt;
-  &lt;li&gt;Screen Scraping&lt;/li&gt;
-  &lt;li&gt;Open source screen scraping tool - Expect&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;Lex and YACC&lt;/i&gt; book&lt;/li&gt;
   &lt;li&gt;Szacowanie&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 18&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;Estimating avoids unpleasant surprises.&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;i&gt;Advice no. 19&lt;/i&gt;&lt;/strong&gt;&lt;br /&gt;
 &lt;i&gt;The schedule and code should be iterative.&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.’&lt;/li&gt;
+  &lt;li&gt;Powinnismy pomoc przełożonym w zrozumieniu, że o harmonogramie prac decyduje zespół, jego produktywność i otoczenie, w którym pracuje.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;chapter-3&quot;&gt;Chapter 3:&lt;/h1&gt;

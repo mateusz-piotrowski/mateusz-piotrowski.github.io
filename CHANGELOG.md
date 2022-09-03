@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.28] (Sep 04 2022)
+
+**Updated :**
+
+- Chapter 2 section
+
 ## [0.0.27] (Aug 29 2022)
 
 **Updated :**
