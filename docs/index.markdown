@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Hi, I'm __Mateusz__!  
+<h1>Hi, I'm <strong>Mateusz</strong>!</h1>  
 
 _Welcome to my place on the Internet!_  
 
@@ -12,6 +12,5 @@ Please, feel free here; - )
 
 You may read my blog posts.
 
-If anything will not be clear for you or you will have any questions,  
+If you want talk about something or you will have any questions,  
 please don't hesitate to contact me.
-

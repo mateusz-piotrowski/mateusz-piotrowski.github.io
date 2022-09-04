@@ -9,6 +9,7 @@
 **Updated :**
 
 - Chapter 2 section
+- Description on Home page
 
 ## [0.0.27] (Aug 29 2022)
 
