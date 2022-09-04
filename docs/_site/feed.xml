@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-04T00:57:01+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 29 2022&lt;/i&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-04T02:38:08+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Learn to program</title><link href="/posts/learn-to-program/" rel="alternate" type="text/html" title="Learn to program" /><published>2022-09-04T01:00:11+02:00</published><updated>2022-09-04T01:00:11+02:00</updated><id>/posts/learn-to-program</id><content type="html" xml:base="/posts/learn-to-program/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: September 04 2022&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Today I want share with you &lt;a href=&quot;https://github.com/mateusz-piotrowski/learn-to-program&quot;&gt;execises results&lt;/a&gt; which I made during reading the following book:&lt;br /&gt;
+&lt;a href=&quot;https://pine.fm/LearnToProgram&quot;&gt;Learn to program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The author choosed the &lt;strong&gt;Ruby&lt;/strong&gt; programming language to introduce reader to programming world.&lt;br /&gt;
+In my opinion he made a great job.&lt;/p&gt;
+
+&lt;p&gt;During reading this book you will start from the basics as variables,&lt;br /&gt;
+next via loops you will get to class and methods.&lt;/p&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Last modified at: September 04 2022</summary></entry><entry><title type="html">The Pragmatic Programmer: From Journeyman to Master</title><link href="/posts/pragmatic-programmer/" rel="alternate" type="text/html" title="The Pragmatic Programmer: From Journeyman to Master" /><published>2022-08-22T01:00:01+02:00</published><updated>2022-08-22T01:00:01+02:00</updated><id>/posts/pragmatic-programmer</id><content type="html" xml:base="/posts/pragmatic-programmer/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: September 04 2022&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -678,7 +693,7 @@
 
 &lt;p&gt;It is everything that I have for today.&lt;br /&gt;
 Everyone is a blacksmith of own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Last modified at: August 29 2022</summary></entry><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 24 2022&lt;/i&gt;&lt;/p&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Last modified at: September 04 2022</summary></entry><entry><title type="html">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</title><link href="/posts/apprenticeship-patterns/" rel="alternate" type="text/html" title="Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" /><published>2022-04-24T01:00:01+02:00</published><updated>2022-04-24T01:00:01+02:00</updated><id>/posts/apprenticeship-patterns</id><content type="html" xml:base="/posts/apprenticeship-patterns/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: August 24 2022&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -1322,53 +1337,4 @@ I do not know… - maybe using the word from my children’s cartoons: &lt;code 
 
 &lt;p&gt;It is everything that I have for today.&lt;br /&gt;
 Everyone is a blacksmith of their own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="continuing-blogging" /><summary type="html">Hi all,</summary></entry><entry><title type="html">The beginning</title><link href="/posts/the-beginning/" rel="alternate" type="text/html" title="The beginning" /><published>2021-03-27T00:55:36+01:00</published><updated>2021-03-27T00:55:36+01:00</updated><id>/posts/the-beginning</id><content type="html" xml:base="/posts/the-beginning/">&lt;p&gt;It was daily standup, like many others in scrum teams.&lt;/p&gt;
-
-&lt;p&gt;We were talking about a good solution for some issue.&lt;/p&gt;
-
-&lt;p&gt;At the end, we changed the topic and started talking about the future of our team:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;how we can share knowledge between us?&lt;/li&gt;
-  &lt;li&gt;how we can grow our skills?&lt;/li&gt;
-  &lt;li&gt;which technologies will be useful in our work which we can learn?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;but one of my teammates threw something like that:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Do you know how learn?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I answered:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;I do not know.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So, he told me about one book which should be good at the beginning:&lt;br /&gt;
-&lt;a href=&quot;https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I bought it after my work.&lt;br /&gt;
-This afternoon it was raining and the weather does not encourage to trip bookstore in the city center.&lt;br /&gt;
-I started reading this book in the evening on the same day.&lt;/p&gt;
-
-&lt;p&gt;After a few days, I finished reading.&lt;br /&gt;
-When I writing this post I do not remember everything,&lt;br /&gt;
-but one thing was stuck in my memory.&lt;br /&gt;
-It is a little advice: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;note everything that you learn&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;I decided to back to this book and reads again,&lt;br /&gt;
-but before I will do that, I will start writing my own blog.&lt;/p&gt;
-
-&lt;p&gt;You can think my idea is so flat.&lt;br /&gt;
-What can be hard to write a blog? On the internet are a lot of blogs:&lt;br /&gt;
-from cooking, through travels to technology blogs.&lt;br /&gt;
-I might be wrong, but in my opinion:&lt;br /&gt;
-The thing is not who read your blog, but in that, what it giving for you.&lt;/p&gt;
-
-&lt;p&gt;Some do it only for creating fake news and falsify the truth.&lt;br /&gt;
-Others for money or other benefits.&lt;/p&gt;
-
-&lt;p&gt;I start to do it to develop myself and share knowledge with the community.&lt;/p&gt;
-
-&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
-Everyone is a blacksmith of own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="beginning" /><summary type="html">It was daily standup, like many others in scrum teams.</summary></entry></feed>
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="continuing-blogging" /><summary type="html">Hi all,</summary></entry></feed>

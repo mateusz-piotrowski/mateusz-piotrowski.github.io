@@ -2,6 +2,10 @@
 
 ## [0.0.28] (Sep 04 2022)
 
+**Added :**
+
+- 11th post - notes from Learn to program book
+
 **Updated :**
 
 - Chapter 2 section

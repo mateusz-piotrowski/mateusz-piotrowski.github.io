@@ -5,7 +5,7 @@ date:   2022-08-22 00:00:01 +0100
 categories: reading-list books
 ---
 
-<p align="right"><i>Last modified at: September 04 2022</i></p>  
+<p align="right"><i>Last modified at: September 04 2022</i></p>
 
 Hi all,
 
