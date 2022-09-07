@@ -4,7 +4,7 @@ title: Reading List
 permalink: /reading-list/
 ---
 
-<p align="right"><i>Last modified at: September 04 2022</i></p>
+<p align="right"><i>Last modified at: September 08 2022</i></p>
 
 # Books
 
@@ -15,6 +15,8 @@ permalink: /reading-list/
 - <a href="/posts/learn-to-program">Learn to program</a>
 
 #### Read [in-progress]
+
+- <a href="/posts/joy-of-elixir">Joy of Elixir</a>
 
 #### Next to read
 

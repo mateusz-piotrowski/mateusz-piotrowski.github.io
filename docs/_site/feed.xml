@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-04T13:40:05+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Learn to program</title><link href="/posts/learn-to-program/" rel="alternate" type="text/html" title="Learn to program" /><published>2022-09-04T01:00:11+02:00</published><updated>2022-09-04T01:00:11+02:00</updated><id>/posts/learn-to-program</id><content type="html" xml:base="/posts/learn-to-program/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: September 04 2022&lt;/i&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-08T00:45:39+02:00</updated><id>/feed.xml</id><title type="html">Mateusz Piotrowski</title><subtitle></subtitle><entry><title type="html">Joy of Elixir</title><link href="/posts/joy-of-elixir/" rel="alternate" type="text/html" title="Joy of Elixir" /><published>2022-09-04T01:00:12+02:00</published><updated>2022-09-04T01:00:12+02:00</updated><id>/posts/joy-of-elixir</id><content type="html" xml:base="/posts/joy-of-elixir/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: September 04 2022&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi all,&lt;/p&gt;
+
+&lt;p&gt;Today I want share with you &lt;a href=&quot;https://github.com/mateusz-piotrowski/joy-of-elixir&quot;&gt;execises results&lt;/a&gt; which I made during reading the following book:&lt;br /&gt;
+&lt;a href=&quot;https://joyofelixir.com/&quot;&gt;Joy of Elixir&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The author introduce the reader to &lt;strong&gt;Elixir&lt;/strong&gt; programming language.&lt;br /&gt;
+The book has been written in interested way.&lt;/p&gt;
+
+&lt;h1 id=&quot;part-one-introductions&quot;&gt;Part One: Introductions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;But who is this book for really?&lt;/li&gt;
+  &lt;li&gt;Elixir? Isn’t that something you drink?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;part-two-and-away-we-go&quot;&gt;Part Two: And away we go&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Appeasing the masses with code&lt;/li&gt;
+  &lt;li&gt;Now, where did I put that value?&lt;/li&gt;
+  &lt;li&gt;Lovely lists&lt;/li&gt;
+  &lt;li&gt;Marvellous maps&lt;/li&gt;
+  &lt;li&gt;Funky functions&lt;/li&gt;
+  &lt;li&gt;Pattern matching&lt;/li&gt;
+  &lt;li&gt;Part 2: Recap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;part-three-building-on-the-foundations&quot;&gt;Part Three: Building on the foundations&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Working with strings, input and output&lt;/li&gt;
+  &lt;li&gt;Working with lists&lt;/li&gt;
+  &lt;li&gt;Working with maps&lt;/li&gt;
+  &lt;li&gt;Working with files&lt;/li&gt;
+  &lt;li&gt;Conditional code&lt;/li&gt;
+  &lt;li&gt;Finding more functions&lt;/li&gt;
+  &lt;li&gt;Modules and Structs&lt;/li&gt;
+  &lt;li&gt;Part 3: Recap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;part-four-real-world-elixir&quot;&gt;Part Four: Real world Elixir&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduction to Mix&lt;/li&gt;
+  &lt;li&gt;Mix dependencies&lt;/li&gt;
+  &lt;li&gt;Automated testing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
+Everyone is a blacksmith of own fate.&lt;br /&gt;
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="reading-list" /><category term="books" /><summary type="html">Last modified at: September 04 2022</summary></entry><entry><title type="html">Learn to program</title><link href="/posts/learn-to-program/" rel="alternate" type="text/html" title="Learn to program" /><published>2022-09-04T01:00:11+02:00</published><updated>2022-09-04T01:00:11+02:00</updated><id>/posts/learn-to-program</id><content type="html" xml:base="/posts/learn-to-program/">&lt;p align=&quot;right&quot;&gt;&lt;i&gt;Last modified at: September 04 2022&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;Hi all,&lt;/p&gt;
 
@@ -1325,16 +1377,4 @@ because during contributioning to public repositories changes made by us will be
 
 &lt;p&gt;It is everything that I have for today.&lt;br /&gt;
 Everyone is a blacksmith of own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="github" /><category term="gnugpg" /><category term="commit" /><summary type="html">Hi all,</summary></entry><entry><title type="html">Continuing blogging</title><link href="/posts/continuing-blogging/" rel="alternate" type="text/html" title="Continuing blogging" /><published>2021-07-20T01:00:02+02:00</published><updated>2021-07-20T01:00:02+02:00</updated><id>/posts/continuing-blogging</id><content type="html" xml:base="/posts/continuing-blogging/">&lt;p&gt;Hi all,&lt;/p&gt;
-
-&lt;p&gt;When I published the first post on my blog, I do not knew what will happen.&lt;br /&gt;
-I do not knew, do I will find time to write the next posts, regularly publishing new content,&lt;/p&gt;
-
-&lt;p&gt;But after the 4 months, I must admit - In blogging is something…&lt;br /&gt;
-I do not know… - maybe using the word from my children’s cartoons: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;magical&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;I come back with an idea for new posts and will publish something new.&lt;/p&gt;
-
-&lt;p&gt;It is everything that I have for today.&lt;br /&gt;
-Everyone is a blacksmith of their own fate.&lt;br /&gt;
-Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="continuing-blogging" /><summary type="html">Hi all,</summary></entry></feed>
+Mateusz.&lt;/p&gt;</content><author><name></name></author><category term="github" /><category term="gnugpg" /><category term="commit" /><summary type="html">Hi all,</summary></entry></feed>

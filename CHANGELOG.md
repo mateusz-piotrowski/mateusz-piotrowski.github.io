@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.29] (Sep 08 2022)
+
+**Added :**
+
+- 12th post - notes from Joy of Elixir book
+
+**Updated :**
+
+- Reading List page
+
 ## [0.0.28] (Sep 04 2022)
 
 **Added :**
