@@ -1,5 +1,115 @@
 # The Changelog
 
+## [0.0.30] (Dec 08 2022)
+
+**Updated :**
+
+- Reading List page
+
+## [0.0.29] (Sep 08 2022)
+
+**Added :**
+
+- 12th post - notes from Joy of Elixir book
+
+**Updated :**
+
+- Reading List page
+
+## [0.0.28] (Sep 04 2022)
+
+**Added :**
+
+- 11th post - notes from Learn to program book
+
+**Updated :**
+
+- Chapter 2 section
+- Description on Home page
+
+## [0.0.27] (Aug 29 2022)
+
+**Updated :**
+
+- Preface section
+
+## [0.0.26] (Aug 28 2022)
+
+**Updated :**
+
+- the italic advices
+- Preface section
+- bold and italic advices headers
+
+## [0.0.25] (Aug 26 2022)
+
+**Updated :**
+
+- the italic advices
+
+## [0.0.24] (Aug 24 2022)
+
+**Added :**
+
+- The sqlteaching within the Applications site
+
+**Updated :**
+
+- 9th post - notes from Apprenticeship Patterns book - last modified date
+- 10th post - notes from The Pragmatic Programmer book - translate advices
+
+**Deleted :**
+
+- 9th post - notes from Apprenticeship Patterns book - delete duplicate line
+
+## [0.0.23] (Aug 23 2022)
+
+**Added :**
+
+- The Applications category at Projects site
+- The orgmodeweb within the Applications site
+
+**Updated :**
+
+- The Reading list positions
+- 9th post - notes from Apprenticeship Patterns book - update The Pragmatic Programmer url and typo
+
+## [0.0.22] (Aug 22 2022)
+
+**Added :**
+
+- Post last modified date
+- 10th post - notes from The Pragmatic Programmer: From Journeyman to Master book
+
+**Updated :**
+
+- 9th post - notes from Apprenticeship Patterns book layout
+
+## [0.0.21] (May 08 2022)
+
+**Updated :**
+
+- about.md file - update about section
+
+## [0.0.20] (Apr 24 2022)
+
+**Added :**
+
+- The Reading list section
+- 9th post - notes from Apprenticeship Patterns book
+
+**Updated :**
+
+- 9th post - update chapter 2 formatting
+- 9th post - update chapter 3 formatting
+- The Reading list positions
+
+## [0.0.19] (Feb 06 2022)
+
+**Added :**
+
+- the header - add header for the installers
+
 ## [0.0.18] (Feb 03 2022)
 
 **Updated :**

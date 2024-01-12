@@ -3,21 +3,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Continuing blogging | Mateusz Piotrowski</title>
+<title>Elixir in 100 seconds | Mateusz Piotrowski</title>
 <meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Continuing blogging" />
+<meta property="og:title" content="Elixir in 100 seconds" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Hi all," />
-<meta property="og:description" content="Hi all," />
-<link rel="canonical" href="/docs/continuing-blogging/2021/07/20/continuing-blogging.html" />
-<meta property="og:url" content="/docs/continuing-blogging/2021/07/20/continuing-blogging.html" />
+<meta name="description" content="Last modified at: November 27 2022" />
+<meta property="og:description" content="Last modified at: November 27 2022" />
+<link rel="canonical" href="/posts/elixir-in-100-seconds/" />
+<meta property="og:url" content="/posts/elixir-in-100-seconds/" />
 <meta property="og:site_name" content="Mateusz Piotrowski" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-07-20T01:00:02+02:00" />
+<meta property="article:published_time" content="2022-11-27T00:00:13+01:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Continuing blogging" />
+<meta property="twitter:title" content="Elixir in 100 seconds" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-07-20T01:00:02+02:00","datePublished":"2021-07-20T01:00:02+02:00","description":"Hi all,","headline":"Continuing blogging","mainEntityOfPage":{"@type":"WebPage","@id":"/docs/continuing-blogging/2021/07/20/continuing-blogging.html"},"url":"/docs/continuing-blogging/2021/07/20/continuing-blogging.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-11-27T00:00:13+01:00","datePublished":"2022-11-27T00:00:13+01:00","description":"Last modified at: November 27 2022","headline":"Elixir in 100 seconds","mainEntityOfPage":{"@type":"WebPage","@id":"/posts/elixir-in-100-seconds/"},"url":"/posts/elixir-in-100-seconds/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Mateusz Piotrowski" /></head>
 <body><header class="site-header" role="banner">
@@ -40,28 +40,74 @@
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Continuing blogging</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Elixir in 100 seconds</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="2021-07-20T01:00:02+02:00" itemprop="datePublished">Jul 20, 2021
+      <time class="dt-published" datetime="2022-11-27T00:00:13+01:00" itemprop="datePublished">Nov 27, 2022
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>Hi all,</p>
+    <p align="right"><i>Last modified at: November 27 2022</i></p>
 
-<p>When I published the first post on my blog, I do not knew what will happen.<br />
-I do not knew, do I will find time to write the next posts, regularly publishing new content,</p>
+<p>Hi all,</p>
 
-<p>But after the 4 months, I must admit - In blogging is something…<br />
-I do not know… - maybe using the word from my children’s cartoons: <code class="language-plaintext highlighter-rouge">magical</code>.</p>
+<p>After watch a video on YouTube I want share a transcript of shown elements.</p>
 
-<p>I come back with an idea for new posts and will publish something new.</p>
+<p><i>The <strong>Elixir</strong> is dynamic, general purpose programming language designed to build scalable concurrent applications with a beautiful functional syntax</i>.</p>
+
+<p>Here is the direct URL to video: <a href="https://www.youtube.com/watch?v=R7t7zca8SyM">Elixir in 100 Seconds</a></p>
+
+<p>The <strong>Fireship</strong> present the basics <strong>Elixir</strong> programming language in very good way.</p>
+
+<h4 id="preface">Preface</h4>
+
+<p>“Elixir” |&gt; String.upcase() |&gt; String.split()”</p>
+
+<p>Created by Jose Valim in 2012.</p>
+
+<p>Build on Erlang BEAM Virtual Machine to use for Open Telecom Platform.</p>
+
+<p>Dynamic typed with minimal <strong>Ruby</strong> inspired syntax with static typed like Haskell.</p>
+
+<p>Compiled to <strong>BEAM</strong> bytecode to deliver better performance and scalability.</p>
+
+<h4 id="companies-using-elixir">Companies using Elixir</h4>
+
+<p>Used by companies like:</p>
+<ul>
+  <li>Discord (concarency)</li>
+  <li>Motorola (fault tolerancy)</li>
+  <li>Pinterest (Realtime)</li>
+  <li>Phoenix (Framework)</li>
+</ul>
+
+<h4 id="code-example">Code example</h4>
+
+<p>The Elixir file has <i>exs</i> file extention.</p>
+
+<ul>
+  <li>Example 1</li>
+</ul>
+
+<p>hello = “Hi Mom!”</p>
+
+<p>IO.puts hello &lt;– <i>Clothing optional</i></p>
+
+<p>IO.puts :hi_mom &lt;– <i>Atom</i></p>
+
+<p>add_five = fn n -&gt; n + 5 end &lt;– <i>Anonymous function</i></p>
+
+<h1 id="part-four-real-world-elixir">Part Four: Real world Elixir</h1>
+
+<ul>
+  <li>Introduction to Mix</li>
+</ul>
 
 <p>It is everything that I have for today.<br />
-Everyone is a blacksmith of their own fate.<br />
+Everyone is a blacksmith of own fate.<br />
 Mateusz.</p>
 
-  </div><a class="u-url" href="/docs/continuing-blogging/2021/07/20/continuing-blogging.html" hidden></a>
+  </div><a class="u-url" href="/posts/elixir-in-100-seconds/" hidden></a>
 </article>
 
       </div>

@@ -1,5 +1,21 @@
 # The Changelog
 
+## [0.0.31] (Jan 12 2024)
+
+**Added :**
+
+- Introduction to Elixir post
+
+**Changed :**
+
+- Files and directories locations
+
+## [0.0.30] (Dec 08 2022)
+
+**Updated :**
+
+- Reading List page
+
 ## [0.0.29] (Sep 08 2022)
 
 **Added :**
