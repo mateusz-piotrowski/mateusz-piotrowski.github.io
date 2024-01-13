@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.32] (Jan 13 2024)
+
+**Updated:**
+
+- .gitignore file
+
 ## [0.0.31] (Jan 12 2024)
 
 **Added :**
