@@ -5,6 +5,7 @@
 **Updated:**
 
 - .gitignore file
+- _config.yml file
 
 **Updated :**
 
