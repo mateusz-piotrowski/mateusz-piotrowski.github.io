@@ -6,6 +6,14 @@
 
 - .gitignore file
 
+**Updated :**
+
+- Reading List links
+
+**Deleted:**
+
+- _site directory
+
 ## [0.0.31] (Jan 12 2024)
 
 **Added :**

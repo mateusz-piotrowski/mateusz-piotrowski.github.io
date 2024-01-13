@@ -10,13 +10,13 @@ permalink: /reading-list/
 
 #### Read [completed]
 
-- <a href="/posts/apprenticeship-patterns">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</a>
-- <a href="/posts/pragmatic-programmer">Pragmatic Programmer: From Journeyman to Master</a>
-- <a href="/posts/learn-to-program">Learn to program</a>
+- <a href="/docs/reading-list/books/2022/04/24/apprenticeship-patterns.html ">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</a>
+- <a href="/docs/reading-list/books/2022/08/22/pragmatic-programmer.html">Pragmatic Programmer: From Journeyman to Master</a>
+- <a href="/docs/reading-list/books/2022/09/04/learn-to-program.html">Learn to program</a>
 
 #### Read [in-progress]
 
-- <a href="/posts/joy-of-elixir">Joy of Elixir</a>
+- <a href="/docs/reading-list/books/2022/09/04/joy-of-elixir.html">Joy of Elixir</a>
 
 #### Next to read
 
