@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.33] (Jan 15 2024)
+
+**Updated:**
+
+- URLs in Reading List
+
+**Deleted:**
+
+- docs directory
+
 ## [0.0.32] (Jan 13 2024)
 
 **Updated:**
