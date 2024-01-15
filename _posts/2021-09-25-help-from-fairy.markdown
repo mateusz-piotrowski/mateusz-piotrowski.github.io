@@ -26,9 +26,10 @@ we will meet a person who describes to us what the application or system should 
 But when the situation is hopeless and even reverse engineering don't give results,  
 we could run the [**fairy**](https://www.github.com/mateusz-piotrowski/fairy) app which gives us example causes ; - )  
 
-Currently, it is available in 2 (two) versions:
-- Bash
-- C
+Currently, it is available in the following versions:
+- _**Bash**_
+- _**C**_
+- _**Python**_
 
 I successively adding new ones - please be patient,  
 Also, I inviting you to contribute to this repository.

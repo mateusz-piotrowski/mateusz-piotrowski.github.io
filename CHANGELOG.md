@@ -2,9 +2,14 @@
 
 ## [0.0.33] (Jan 15 2024)
 
+**Added:**
+
+- [5th post] - next: Python version
+
 **Updated:**
 
 - URLs in Reading List
+- [5th post] - programming languages list formatting
 
 **Deleted:**
 
