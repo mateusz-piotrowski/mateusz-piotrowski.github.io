@@ -85,8 +85,6 @@ By grasping the functional programming paradigm in Elixir, developers can levera
 
 Dive into the Phoenix framework, a powerful web framework for building scalable and maintainable applications. Discover how Phoenix leverages Elixir's concurrency model to handle thousands of simultaneous connections with ease.
 
-### 3. Elixir Phoenix Framework:
-
 #### 3.1 Introduction to Phoenix:
 Elixir's prowess extends beyond the language itself, as witnessed by the robust web framework known as Phoenix. Phoenix is designed to make building scalable and maintainable web applications a breeze. It leverages Elixir's concurrency model, fault-tolerance, and productivity features to create high-performance applications.
 

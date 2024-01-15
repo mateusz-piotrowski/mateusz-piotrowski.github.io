@@ -9,6 +9,7 @@
 **Deleted:**
 
 - docs directory
+- [12th post] - duplicated header
 
 ## [0.0.32] (Jan 13 2024)
 
