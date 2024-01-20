@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.34] (Jan 20 2024)
+
+**Updated:**
+
+- Jekyll version
+
+**Deleted:**
+
+- image directory
+
 ## [0.0.33] (Jan 15 2024)
 
 **Added:**
