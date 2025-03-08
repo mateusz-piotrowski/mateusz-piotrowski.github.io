@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "#1 The beginning"
+title: "The beginning"
 comments: true
-date:   2021-03-27 00:55:36 +0100
+post_number: 1
+date: 2021-03-27 00:00:00 +0100
 categories: general
 tags: first-post
 ---
+
+Hi all,
 
 It was daily standup, like many others in scrum teams.
 
