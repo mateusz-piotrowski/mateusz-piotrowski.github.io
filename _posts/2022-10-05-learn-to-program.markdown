@@ -4,8 +4,8 @@ title: "Learn to program"
 comments: true
 post_number: 12
 date: 2022-10-05 00:00:00 +0100
-categories: general
-tags: reading-list books
+categories: general reading-list
+tags: learn-to-program reading-list books
 ---
 
 Hi all,
