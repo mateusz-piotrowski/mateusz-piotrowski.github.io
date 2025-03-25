@@ -4,7 +4,7 @@ title: "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman"
 comments: true
 post_number: 9
 date: 2022-04-24 00:00:00 +0100
-categories: general
+categories: general reading-list
 tags: apprenticeship-patterns reading-list books
 ---
 

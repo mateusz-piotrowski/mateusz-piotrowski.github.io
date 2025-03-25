@@ -4,7 +4,7 @@ title: "Joy of Elixir"
 comments: true
 post_number: 11
 date: 2022-09-04 00:00:12 +0100
-categories: general
+categories: general reading-list
 tags: joy-of-elixir reading-list books
 ---
 

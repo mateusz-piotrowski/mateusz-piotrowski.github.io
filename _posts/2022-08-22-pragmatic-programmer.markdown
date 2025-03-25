@@ -4,7 +4,7 @@ title: "The Pragmatic Programmer: From Journeyman to Master"
 comments: true
 post_number: 10
 date: 2022-08-22 00:00:00 +0100
-categories: general
+categories: general reading-list
 tags: pragmatic-programmer reading-list books
 ---
 
