@@ -13,7 +13,7 @@ tags: new-job
 Hi all,
 
 Today I want to share with you a shift in my career path.  
-I have been looking for a new job as a .NET Developer for three months but with little success.  
+I have looking for a new job as a .NET Developer but with little success.  
 This has made me question: <i>**What’s happening in the .NET job market?**</i>  
 
 I have experience in **C#**, **Angular**, **Entity Framework**, and **SQL**, having worked on both commercial and personal projects. I’ve applied to numerous companies, refined my resume, and gone through several interviews, yet the right opportunity still hasn’t come.  
