@@ -1,7 +1,7 @@
 ---
 layout: post
 icon: fas fa-book
-order: 2
+order: 3
 ---
 
 ## Completed

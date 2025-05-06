@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 
 <h1>Hi, I'm <strong>Mateusz</strong>!</h1>  
